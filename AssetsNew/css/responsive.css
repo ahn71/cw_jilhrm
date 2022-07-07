@@ -1,0 +1,257 @@
+﻿.login-page .page {
+    width: 90%;
+}
+.dashboard-body-main {
+    background: transparent url('../../images/glossy-2.jpg') repeat scroll 0% 0%;
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    height: 1000%;
+}
+.topbar-rightside{
+    float:right;
+}
+.topbar-action li {
+    float: left;
+    padding: 8px;
+    line-height:;
+    list-style: none;
+}
+.topbar-action li .acbtn {
+    float: left;
+    line-height:;
+    list-style: none;
+    color: #f00;
+    font-size: 16px;
+    margin-bottom: 0;
+    font-family: arial-bold;
+    font-weight: bold;
+    border-right: 1px solid #000;
+    padding-right: 10px;
+}
+.topbar-action li:last-child .acbtn {
+    border-right: none;
+}
+.ds-logout{
+    background: no-repeat;
+    border: none;
+    font-weight: bold;
+}
+.ds-logout:hover {
+    color:#000;
+}
+.ds-hrm-title {
+    text-align: center;
+    margin-top: 200px;
+    font-weight: bold; 
+    color: green; 
+    text-shadow: 3px 5px 1px rgb(126, 171, 52); 
+    font-size: 75px; 
+    font-family: initial;
+}
+.ds_Settings_Basic_default {
+    background: #ffffff4d;
+    transition: .4s;
+}
+
+   /*=========Application=======*/
+.out-duty-box .cn-input {
+	width: 72%;
+	float: left;
+}
+   /*=========Application=======*/
+
+.out-duty-box .cn-input {
+    width: 72%;
+    float: left;
+}
+#gvClient {
+    width: 95%;
+    margin: 0 auto;
+
+}
+.outduty-report .colon-list {
+    float: right;
+}
+.outduty-report label.col-md-3 {
+    margin-top: 10px;
+}
+.outduty-report #ContentPlaceHolder1_MainContent_rblEmpType {
+    margin-top: 4px;
+}
+.outduty-report-outer {
+    width: 60%;
+    margin: 0px auto;
+}
+/* -----------------------------------------
+   Badge
+----------------------------------------- */
+
+.badge {
+    padding: 3px 4px 3px;
+    position: absolute;
+    top: 1px;
+    right: 2px;
+    display: inline-block;
+    min-width: 20px;
+    font-size: 11px;
+    font-weight: bold;
+    color: #ffffff;
+    line-height: 1;
+    vertical-align: baseline;
+    white-space: nowrap;
+    text-align: center;
+    border-radius: 44px;
+    height: 20px;
+}
+
+.badge-danger {
+    background-color: #db5565;
+}
+.alert-bell-icon {
+    float: right;
+    padding: 13px
+}
+.alert-bell-icon a i {
+    font-size: 25px;
+    float: left;
+    color: #213fc2;
+}
+.chk-table table tbody tr td{
+    float:left;
+}
+.chk-table table tbody tr td label {
+    font-size: 10px;
+    font-weight: bold;
+    padding: 3px 5px !important;
+    margin: 0;
+}
+@media (min-width: 979px) and (max-width: 1200px) {
+}
+
+@media (min-width: 768px) and (max-width: 980px) {
+  
+    
+}
+
+
+
+@media (max-width:767px) {
+    .login-page .panel-body {
+        padding: 0;
+        width: 100%;
+    }
+    .page{
+        width: 95%;
+    }
+    .login-page .fixed {
+        display: none;
+    }
+    .login-page .btn{
+        border-radius:1px;
+    }
+    .login-page .input-group span{
+        border-radius: 1px;
+    }
+
+    .login-page .input-group .form-control {
+        border-radius: 1px;
+    }
+
+   /*=====Dashboard Body Main=====*/
+   /*=====Dashboard Body Header =====*/
+    .topbar-rightside {
+        float: left;
+    }
+    .topbar-action li:first-child {
+        display:none;
+    }
+    .topbar-action li {
+        padding: 2px;
+    }
+    .ds_Main_HeaderBar {
+        margin-bottom: 3px;
+    }
+
+    .topbar-action li .acbtn {
+        font-size: 13px;
+        padding-right: 5px;
+    }
+
+    .topbar-action {
+        margin: 0;
+        padding: 0;
+    }
+    .dashboard-body-main {
+        position: relative;
+        padding:15px 10px;
+    }
+    .ds_Settings_Basic_default {
+        background: #ffffff4d;
+        transition:.4s;
+    }
+    .ds-hrm-title {
+        margin-top:10px;
+    }
+   /*=====Dashboard Body Main=====*/
+   /*=====Application=====*/
+    .application_box_left {
+        width: 100%
+    }
+    .Lbody .form-control {
+        width: 93%;
+    }
+    .out-duty-box .od-table {
+        width: 90%;
+    }
+    .out-duty-box .employee_box_content {
+        padding: 15px 20px;
+    }
+    .out-duty-box .form-control {
+        width: 98%;
+    }
+    .out-duty-box .cn-input {
+        width: 62%;
+        float: left;
+    }
+    .Lbutton {
+        padding: 8px 11px;
+    }
+    .list_button {
+        width: 290px;
+        margin: auto;
+    }
+    .ajax__calendar_container {
+        width: 200px!important;
+    }
+    .ajax__calendar_day {
+        height: 22px !important;
+        width: 22px !important;
+        padding: 4px !important;
+    }
+    .lla-option-btn table tbody tr td label{
+	margin-right: 0px;
+	margin-left: 0px;
+    }
+    .outduty-report-outer {
+        width: 100%;
+    }
+    .outduty-report-outer .EilistL {
+        width: 75%;
+        padding: 5px;
+    }
+    .outduty-report-outer .EilistR {
+        float: left;
+        width: 84%;
+        margin-left: 5px;
+        margin-top: 5px;
+    }
+    .td-xs-hidden table tr td:nth-child(4), .td-xs-hidden table tr td:nth-child(5) {
+        display: none;
+    }
+    .main-bg {
+        height: auto;
+        padding-bottom:20px;
+    }
+}
+

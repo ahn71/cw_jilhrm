@@ -1,0 +1,137 @@
+E:\Web Applications\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.dll
+E:\Web Applications\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.pdb
+E:\Web Applications\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.csprojResolveAssemblyReference.cache
+E:\Web Applications\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.dll
+E:\Web Applications\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.pdb
+\\ROHOL\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.dll
+\\ROHOL\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.pdb
+\\ROHOL\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.csprojResolveAssemblyReference.cache
+\\ROHOL\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.dll
+\\ROHOL\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.pdb
+\\192.168.1.33\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.dll
+\\192.168.1.33\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.pdb
+\\192.168.1.33\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.csprojResolveAssemblyReference.cache
+\\192.168.1.33\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.dll
+\\192.168.1.33\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.pdb
+D:\Running Project\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.dll
+D:\Running Project\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.pdb
+D:\Running Project\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.dll
+D:\Running Project\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.pdb
+\\192.168.1.36\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.dll
+\\192.168.1.36\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.pdb
+\\192.168.1.36\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.csprojResolveAssemblyReference.cache
+\\192.168.1.36\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.dll
+\\192.168.1.36\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.pdb
+D:\Running Project\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.csprojResolveAssemblyReference.cache
+D:\Running Project\HRM\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.dll
+D:\Running Project\HRM\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.pdb
+D:\Running Project\HRM\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.csprojResolveAssemblyReference.cache
+D:\Running Project\HRM\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.dll
+D:\Running Project\HRM\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.pdb
+E:\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.dll
+E:\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.pdb
+E:\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.csprojResolveAssemblyReference.cache
+E:\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.dll
+E:\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.pdb
+E:\All Source Project\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.dll
+E:\All Source Project\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.pdb
+E:\All Source Project\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.csprojResolveAssemblyReference.cache
+E:\All Source Project\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.dll
+E:\All Source Project\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.pdb
+\\192.168.1.32\Common\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.dll
+\\192.168.1.32\Common\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.pdb
+\\192.168.1.32\Common\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.csprojResolveAssemblyReference.cache
+\\192.168.1.32\Common\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.dll
+\\192.168.1.32\Common\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.pdb
+D:\Running Project\Common\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.dll
+D:\Running Project\Common\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.pdb
+D:\Running Project\Common\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.dll
+D:\Running Project\Common\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.pdb
+D:\Running Project\Common\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.csprojResolveAssemblyReference.cache
+D:\HRMProject\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.dll
+D:\HRMProject\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.pdb
+D:\HRMProject\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.csprojResolveAssemblyReference.cache
+D:\HRMProject\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.dll
+D:\HRMProject\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.pdb
+\\192.168.1.32\Common\MSL\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.dll
+\\192.168.1.32\Common\MSL\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.pdb
+\\192.168.1.32\Common\MSL\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.csprojResolveAssemblyReference.cache
+\\192.168.1.32\Common\MSL\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.dll
+\\192.168.1.32\Common\MSL\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.pdb
+\\NAYEM-PC\Common\MSL\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.dll
+\\NAYEM-PC\Common\MSL\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.pdb
+\\NAYEM-PC\Common\MSL\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.csprojResolveAssemblyReference.cache
+\\NAYEM-PC\Common\MSL\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.dll
+\\NAYEM-PC\Common\MSL\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.pdb
+D:\Running Project\Common\MSL\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.dll
+D:\Running Project\Common\MSL\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.pdb
+D:\Running Project\Common\MSL\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.dll
+D:\Running Project\Common\MSL\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.pdb
+D:\Running Project\Common\MSL\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.csprojResolveAssemblyReference.cache
+\\192.168.1.35\Running Project\HRM\Project\MSL\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.dll
+\\192.168.1.35\Running Project\HRM\Project\MSL\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.pdb
+\\192.168.1.35\Running Project\HRM\Project\MSL\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.dll
+\\192.168.1.35\Running Project\HRM\Project\MSL\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.pdb
+\\192.168.1.35\Running Project\HRM\Project\MSL\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.csprojResolveAssemblyReference.cache
+\\192.168.1.35\Running Project\HRM\Project\SHEPHERD GROUP\New folder\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.dll
+\\192.168.1.35\Running Project\HRM\Project\SHEPHERD GROUP\New folder\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.pdb
+\\192.168.1.35\Running Project\HRM\Project\SHEPHERD GROUP\New folder\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.csprojResolveAssemblyReference.cache
+\\192.168.1.35\Running Project\HRM\Project\SHEPHERD GROUP\New folder\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.dll
+\\192.168.1.35\Running Project\HRM\Project\SHEPHERD GROUP\New folder\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.pdb
+G:\Running Project\HRM\Project\SHEPHERD GROUP\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.dll
+G:\Running Project\HRM\Project\SHEPHERD GROUP\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.pdb
+G:\Running Project\HRM\Project\SHEPHERD GROUP\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.csprojResolveAssemblyReference.cache
+G:\Running Project\HRM\Project\SHEPHERD GROUP\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.dll
+G:\Running Project\HRM\Project\SHEPHERD GROUP\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.pdb
+\\192.168.1.35\Running Project\HRM\Project\SHEPHERD GROUP\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.dll
+\\192.168.1.35\Running Project\HRM\Project\SHEPHERD GROUP\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.pdb
+\\192.168.1.35\Running Project\HRM\Project\SHEPHERD GROUP\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.dll
+\\192.168.1.35\Running Project\HRM\Project\SHEPHERD GROUP\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.pdb
+\\192.168.1.35\Running Project\HRM\Project\SHEPHERD GROUP\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.csprojResolveAssemblyReference.cache
+\\192.168.88.240\Running Project\HRM\Project\SHEPHERD GROUP\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.dll
+\\192.168.88.240\Running Project\HRM\Project\SHEPHERD GROUP\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.pdb
+\\192.168.88.240\Running Project\HRM\Project\SHEPHERD GROUP\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.csprojResolveAssemblyReference.cache
+\\192.168.88.240\Running Project\HRM\Project\SHEPHERD GROUP\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.dll
+\\192.168.88.240\Running Project\HRM\Project\SHEPHERD GROUP\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.pdb
+\\192.168.1.35\Running Project\HRM\Project\JAKSON\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.dll
+\\192.168.1.35\Running Project\HRM\Project\JAKSON\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.pdb
+\\192.168.1.35\Running Project\HRM\Project\JAKSON\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.csprojResolveAssemblyReference.cache
+\\192.168.1.35\Running Project\HRM\Project\JAKSON\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.dll
+\\192.168.1.35\Running Project\HRM\Project\JAKSON\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.pdb
+\\192.168.1.41\Running Project\HRM\Project\JAKSON\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.dll
+\\192.168.1.41\Running Project\HRM\Project\JAKSON\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.pdb
+\\192.168.1.41\Running Project\HRM\Project\JAKSON\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.csprojResolveAssemblyReference.cache
+\\192.168.1.41\Running Project\HRM\Project\JAKSON\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.dll
+\\192.168.1.41\Running Project\HRM\Project\JAKSON\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.pdb
+\\192.168.1.41\Running Project\HRM\Project\JILHRM\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.dll
+\\192.168.1.41\Running Project\HRM\Project\JILHRM\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.pdb
+\\192.168.1.41\Running Project\HRM\Project\JILHRM\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.csprojResolveAssemblyReference.cache
+\\192.168.1.41\Running Project\HRM\Project\JILHRM\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.dll
+\\192.168.1.41\Running Project\HRM\Project\JILHRM\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.pdb
+\\192.168.1.35\Running Project\HRM\Project\JILHRM\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.dll
+\\192.168.1.35\Running Project\HRM\Project\JILHRM\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.pdb
+\\192.168.1.35\Running Project\HRM\Project\JILHRM\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.csprojResolveAssemblyReference.cache
+\\192.168.1.35\Running Project\HRM\Project\JILHRM\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.dll
+\\192.168.1.35\Running Project\HRM\Project\JILHRM\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.pdb
+D:\Running Project\JILHRM\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.dll
+D:\Running Project\JILHRM\HRM_NEW\GloryERP\HRD.DAL\bin\Debug\HRD.DAL.pdb
+D:\Running Project\JILHRM\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.csprojResolveAssemblyReference.cache
+D:\Running Project\JILHRM\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.dll
+D:\Running Project\JILHRM\HRM_NEW\GloryERP\HRD.DAL\obj\Debug\HRD.DAL.pdb
+C:\Official Doc (Nayem)\Runnig projects123\cw_jilhrm\HRD.DAL\bin\Debug\HRD.DAL.dll
+C:\Official Doc (Nayem)\Runnig projects123\cw_jilhrm\HRD.DAL\bin\Debug\HRD.DAL.pdb
+C:\Official Doc (Nayem)\Runnig projects123\cw_jilhrm\HRD.DAL\obj\Debug\HRD.DAL.csprojResolveAssemblyReference.cache
+C:\Official Doc (Nayem)\Runnig projects123\cw_jilhrm\HRD.DAL\obj\Debug\HRD.DAL.csproj.CoreCompileInputs.cache
+C:\Official Doc (Nayem)\Runnig projects123\cw_jilhrm\HRD.DAL\obj\Debug\HRD.DAL.dll
+C:\Official Doc (Nayem)\Runnig projects123\cw_jilhrm\HRD.DAL\obj\Debug\HRD.DAL.pdb
+C:\Official Doc (Nayem)\Runnig projects\cw_jilhrm\HRD.DAL\bin\Debug\HRD.DAL.dll
+C:\Official Doc (Nayem)\Runnig projects\cw_jilhrm\HRD.DAL\bin\Debug\HRD.DAL.pdb
+C:\Official Doc (Nayem)\Runnig projects\cw_jilhrm\HRD.DAL\obj\Debug\HRD.DAL.csprojResolveAssemblyReference.cache
+C:\Official Doc (Nayem)\Runnig projects\cw_jilhrm\HRD.DAL\obj\Debug\HRD.DAL.csproj.CoreCompileInputs.cache
+C:\Official Doc (Nayem)\Runnig projects\cw_jilhrm\HRD.DAL\obj\Debug\HRD.DAL.dll
+C:\Official Doc (Nayem)\Runnig projects\cw_jilhrm\HRD.DAL\obj\Debug\HRD.DAL.pdb
+D:\Running projects\cw_jilhrm\HRD.DAL\bin\Debug\HRD.DAL.dll
+D:\Running projects\cw_jilhrm\HRD.DAL\bin\Debug\HRD.DAL.pdb
+D:\Running projects\cw_jilhrm\HRD.DAL\obj\Debug\HRD.DAL.csproj.CoreCompileInputs.cache
+D:\Running projects\cw_jilhrm\HRD.DAL\obj\Debug\HRD.DAL.dll
+D:\Running projects\cw_jilhrm\HRD.DAL\obj\Debug\HRD.DAL.pdb

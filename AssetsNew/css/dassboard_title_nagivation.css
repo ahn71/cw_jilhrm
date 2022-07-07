@@ -1,0 +1,268 @@
+﻿body
+{
+    background-color:white;
+}
+.header_top {
+    background: #fff none repeat scroll 0 0;
+    left: 0;
+    right: 0;
+    transition: all 0.3s ease-in-out 0s;
+    z-index: 1002;
+}
+.employee_box_header h2{
+  margin:0px;
+}
+.ds_negevation_inactive:hover {
+  text-decoration: none !important;
+  color:blue !important;
+}
+.seperator{
+    padding:0px !important;
+}
+.seperator:hover {
+  text-decoration: none !important;
+  color:blue !important;
+}
+.header_top_area {
+      border-bottom: 3px solid #3B5998;
+}
+.ds_nagevation_bar {
+  background-color: whitesmoke;
+  border-bottom: 3px solid #3b5998;
+  color: #2e2e2e;
+  font-size: 15px;
+  overflow: hidden;
+  padding: 5px 0;
+}
+.ds_button_Basic {
+    margin-bottom:10px;
+  border-radius: 25px;
+  height: 100px;
+  width: 100%;
+  box-shadow: 4px 3px 9px #6b6b6b;
+}
+
+.ds_Settings_Basic {
+    margin-bottom:10px;
+  border-radius: 25px;
+  height: 100px;
+  
+  box-shadow: 4px 3px 9px #6b6b6b;
+}
+.ds_Settings_Basic:hover {
+ background-color:gray;
+ color:white;
+}
+.ds_Settings_Basic_default{
+  border-radius: 15px;
+  color: #000;
+  display: block;
+  font-size: 14px;
+  margin: 0 0 10px;
+  padding: 37px;
+  text-align: center;
+  border-bottom:10px solid #0057AE;
+}
+.ds_Settings_Basic_default:hover{
+  background: rgba(0,0,0,.1);
+  color: #fff;
+}
+.ds_Settings_Basic_Text {
+  border-radius: 15px;
+  color: #fff;
+  display: block;
+  font-size: 14px;
+  margin: 0 0 10px;
+  padding: 37px;
+  text-align: center;
+  border-bottom:10px solid #0057AE;
+  background: rgba(0,0,0,.1);
+}
+.ds_Settings_Basic_Text:hover {
+  background: rgba(0,0,0,.3);
+  color: #fff;
+}
+.ds_personnel_Basic_Text {
+  background: rgba(0,0,0,.1);
+  border-radius: 15px;
+  color: #fff;
+  display: block;
+  font-size: 14px;
+  margin: 0 0 10px;
+  padding: 37px;
+  text-align: center;
+  border-bottom:10px solid #9E1313;
+}
+.ds_leave_Basic_Text {
+  background: rgba(0,0,0,.1);
+  border-radius: 15px;
+  color: #fff;
+  display: block;
+  font-size: 14px;
+  margin: 0 0 10px;
+  padding: 37px;
+  text-align: center;
+  border-bottom:10px solid #008B8B;
+}
+.ds_attendance_Basic_Text {
+  background: rgba(0, 0, 0, 0.1) none repeat scroll 0 0;
+  border-bottom: 10px solid #2b5e4e;
+  border-radius: 15px;
+  color: #fff;
+  display: block;
+  font-size: 14px;
+  margin: 0 0 10px;
+  padding: 37px;
+  text-align: center;
+}
+.ds_attendance_Basic_Text:hover {
+  background: rgba(0, 0, 0, 0.3) none repeat scroll 0 0;
+ color:white;
+}
+
+.ds_leave_Basic_Text:hover {
+  background: rgba(0, 0, 0, 0.3) none repeat scroll 0 0;
+ color:white;
+}
+.ds_personnel_Basic_Text:hover {
+ background: rgba(0,0,0,.3);
+ color:white;
+}
+
+.ds_nagevation_bar ul{
+    margin:0;
+    padding:0;
+}
+.ds_nagevation_bar ul li{
+    float:left;
+    list-style:none;
+
+}
+.ds_nagevation_bar ul li a{
+    padding:10px;
+}
+.ds_nagevation_bar ul li a:hover{
+    text-decoration:underline;
+}
+.ds_negevation_inactive{
+    color:blue;
+
+}
+
+.ds_negevation_inactive ul li a:hover{
+    text-decoration:none;
+   
+}
+
+.ds_Main_HeaderBar
+{
+    
+    color: red;
+    float: left;
+    font-family: arial-bold;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 8px;
+}
+
+.ds_Main_HeaderBar_ShortName
+{
+    
+    color: blue;
+    
+    font-family: arial-bold;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 8px;
+}
+
+.ds_Logout_Button{
+    background-color: white;
+    border: 0 none;
+    color: red;
+    float: right;
+    margin-right: 4px;
+    margin-top: 10px;
+}
+.ds_Logout_Button:hover{
+    color:green;
+    text-decoration:underline;
+    font-weight:bold;
+}
+
+.ds_Logout_UserInfo{
+    background-color: white;
+    border: 0 none;
+    color: red;
+    float: right;
+    margin-right: 4px;
+    margin-top: 10px;
+}
+
+.ds_Logout_Seperator{
+    background-color: white;
+    border: 0 none;
+    color: blue;
+    float: right;
+    margin-right: 4px;
+    margin-top: 10px;
+}
+
+
+
+.footer {
+  background-color: #e2e2e2;
+  bottom: 0;
+  font-size: 15px;
+  min-height: 30px;
+  padding: 5px;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+  color:#2e2e2e;
+}
+.image_width {
+  display: block;
+  margin: 0 auto 6px;
+  width: 65%;
+}
+.image_width_for_module{
+    width:30%;
+}
+legend {
+  border: 0 none;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 5px;
+}
+.employee_table tr td:first-child {
+  max-width:250px;
+}
+.employee_table tr td table tr td:first-child {
+  max-width: 200px;
+}
+.form_horizontal_custom {
+    margin-top:10px;
+}
+.form_horizontal_custom .control-label {
+  padding: 0;
+  white-space:nowrap;
+  margin-top:5px;
+}
+.form-horizontal .form-group {
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.padding_right {
+  padding-right: 0;
+  padding-left: 5px;
+}
+.inline_form_label {
+  font-weight: normal;
+  vertical-align: middle;
+}
+.inline_form_text_box_width {
+    width:175px !important;
+    margin-bottom:5px !important;
+}

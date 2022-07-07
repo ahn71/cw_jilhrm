@@ -1,0 +1,42 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Glory.Master" AutoEventWireup="true" CodeBehind="personnel_nested.master.cs" Inherits="SigmaERP.personnel_nested" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+         <ul class="hrd_nested_menu">
+
+        <li><a id="hr1"  class="commmonclass hrd_menu"  href="/leave/LeaveConfig.aspx">Configuration</a></li>
+        <li><a id="hr2" class="commmonclass"  href="/leave/holyday.aspx">Holiday Setup</a></li>
+        <li><a id="hr3" class="commmonclass"  href="/leave/aplication.aspx">Leave Application</a></li>
+         <li><a class="commmonclass" id="hr13"  href="/leave/for_approve_leave_list.aspx">For Approve </a></li>
+        <li><a id="hr4" class="commmonclass"  href="/leave/generation.aspx">Earn Leave Generation</a></li>
+        <li><a id="hr5"  class="commmonclass"  href="/leave/week_end_list_all.aspx">All Leave List</a></li>
+        <%--<li><a id="hr6" onclick="javascript:getID(this)" href="/hrd/group_config.aspx">Group Configuration</a></li>--%>
+        <%--<li><a id="hr7" onclick="javascript:getID(this)" href="/hrd/floor_config.aspx">Floor Configuration</a></li>--%>
+        <li><a class="commmonclass" id="hr8"  href="/leave/leave_balance_report.aspx">Banalce Report</a></li>
+        <%--<li><a id="hr9" onclick="javascript:getID(this)" href="/hrd/shift_config_previous.aspx">Shift Configuration Previous</a></li>--%>
+        <li><a class="commmonclass" id="hr10"  href="/leave/company_purpose_leave_report.aspx">Company Purpose Report</a></li>
+        <li><a class="commmonclass" id="hr11"  href="/leave/MaternityLeaveApplication.aspx">Maternity Application</a></li>
+        <li><a class="commmonclass" id="hr12"  href="/leave/maternity.aspx">Maternity Voucher</a></li>
+        
+    </ul>
+     <asp:ContentPlaceHolder ID="MainContent" runat="server"> </asp:ContentPlaceHolder>
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            var host = $(window.location).attr('host');
+            var currenturl = window.location;
+            $('.commmonclass').each(function () {
+                var href = $(this).attr('href');
+                href = 'http://' + host + href;
+                if (currenturl == href) {
+                    $(this).attr('class', 'commmonclass hrd_menu');
+                }
+                else {
+                    $(this).attr('class', 'commmonclass');
+                }
+
+            });
+        });
+
+    </script>
+</asp:Content>

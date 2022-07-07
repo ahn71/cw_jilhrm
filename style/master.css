@@ -1,0 +1,205 @@
+﻿
+.message {
+    position:fixed;
+    top:-45px;
+    left:-45px;
+    z-index:999999999;
+}
+
+/*menu-css*/
+.userNav {
+    float: right;
+    font-size: 11px;
+    position: relative;
+    margin-right: 69px;
+}
+.userNav .lastNav {
+    background: url("../images/navSep.png") repeat-y scroll 0 0 rgba(0, 0, 0, 0);
+    height: 36px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 2px;
+}
+.userNav ul {
+    margin-right: 2px;
+}
+.userNav ul li {
+    border-right: 1px solid #2F2F2F;
+    cursor: pointer;
+    display: inline;
+    float: left;
+    position: relative;
+    height: 35px;
+}
+.userNav ul li:first-child {
+    border-left: 1px solid #2F2F2F;
+    height: 35px;
+}
+.userNav ul li a {
+    color: #EEEEEE;
+    display: block;
+    float: left;
+    text-decoration: none;
+}
+.userNav ul li:hover, .selected {
+    background: none repeat scroll 0 0 #212121;
+}
+.userNav ul li span {
+    display: block;
+    float: left;
+    padding: 8px 14px 8px 8px;
+}
+.userNav ul li img {
+    display: block;
+    float: left;
+    padding: 13px 2px 11px 14px;
+}
+.userNav ul li ul {
+    background: none repeat scroll 0 0 #2F2F2F;
+    border: 1px solid #1D1D1D;
+    display: none;
+    left: -1px;
+    margin-top: 0;
+    padding: 0 1px 1px;
+    position: absolute;
+    top: 35px;
+    z-index: 100;
+}
+.userNav ul li ul li {
+    background: none repeat scroll 0 0 #212121;
+    border-bottom: 1px solid #141414;
+    border-right: medium none;
+    border-top: 1px solid #2F2F2F;
+    display: block;
+    float: none;
+}
+.userNav ul li ul li:first-child {
+    border-left: medium none !important;
+}
+.userNav ul li ul li a {
+    color: #C5C5C5;
+    float: none;
+    font-size: 11px;
+    font-weight: normal;
+    padding: 6px 10px 7px 36px;
+    text-transform: none;
+    width: 100px;
+}
+.userNav ul li ul li a:hover {
+    color: #A4A4A4;
+    font-weight: normal;
+}
+.userNav ul li ul li:hover {
+    background: none repeat scroll 0 0 #1D1D1D !important;
+}
+.sAdd {
+    background: url("Images/master/subAdd.png") no-repeat scroll 15px 13px rgba(0, 0, 0, 0);
+}
+.sInbox {
+    background: url("Images/master/subInbox.png") no-repeat scroll 14px 12px rgba(0, 0, 0, 0);
+}
+.sOutbox {
+    background: url("Images/master/subOutbox.png") no-repeat scroll 14px 11px rgba(0, 0, 0, 0);
+}
+.sTrash {
+    background: url("Images/master/subTrash.png") no-repeat scroll 14px 12px rgba(0, 0, 0, 0);
+}
+
+element.style {
+    display: block;
+}
+.userNav ul li ul {
+    background: none repeat scroll 0 0 #2F2F2F;
+    border: 1px solid #1D1D1D;
+    display: none;
+    left: -1px;
+    margin-top: 0;
+    padding: 0 1px 1px;
+    position: absolute;
+    top: 35px;
+    z-index: 100;
+}
+.userNav ul {
+    margin-right: 2px;
+}
+.menu_body {
+    display: none;
+    padding: 12px 14px;
+}
+.welcome {
+    float: left;
+    margin-left: 65px;
+}
+.welcome a {
+    color: #2B6893;
+    text-decoration: none;
+}
+.welcome img {
+    float: left;
+    margin: 8px 8px 8px 0;
+}
+
+.welcome span {
+    display: block;
+    float: left;
+    font-size: 11px;
+    padding: 8px 5px;
+    white-space: nowrap;
+}
+.dd {
+    
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border: 0 none;
+    font-size: 100%;
+    margin: 0;
+    outline: 0 none;
+    padding: 0;
+    vertical-align: baseline;
+}
+
+.profileImage {
+    height:145px;
+}
+.profileImage3 {
+    height:118px;
+    width:130px;
+    float: left;
+    margin-left:140px;
+}
+.profileImage_2 {
+  border: 1px solid #dddddd;
+  height: 60px;
+  margin-top: 42px;
+  width: 130px;
+}
+.noData
+{
+    padding:30px;
+    text-align:center;
+    font-weight:bold;
+    text-transform:uppercase;
+    font-family:'Cuprum',sans-serif,Arial;
+    color:#161716;
+    font-size:26px;
+}
+
+.control
+{
+    max-width:30px;
+    padding:0px !important;    
+    text-align:center!important;
+    
+}
+
+.control img
+{
+    margin:0 auto;
+    height:22px;
+    width:22px;
+    cursor:pointer;
+}
+
+.monthly_table_setup table tr td {
+    padding:5px 0;
+}

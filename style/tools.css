@@ -1,0 +1,130 @@
+﻿.edit_company {
+    border: 1px solid #CCCCCC;
+    margin: 15px auto;
+    padding: 10px 0;
+    width: 550px;
+}
+.edit_company_table {
+    margin:0 auto;
+}
+.edit_company_table tr td {
+    text-align:right;
+}
+
+.new_company {
+    border: 1px solid #CCCCCC;
+    margin: 15px auto;
+    padding: 10px 0;
+    width: 550px;
+}
+.new_company_table {
+    margin:0 auto;
+}
+.new_company_table tr td {
+    text-align:right;
+}
+/*select_company*/
+.select_company {
+    height: 200px;
+    overflow: scroll;
+    width: 600px;
+    margin: 15px 0;
+}
+.select_company_table {
+    border-top: 2px solid #C6C6C6;
+    margin: 10px auto 0;
+    padding-top: 15px;
+    width: 450px;
+}
+table.select_company_table {
+    border-collapse: collapse;
+    border-color: #729EA5;
+    border-width: 1px;
+    color: #333333;
+    font-size: 12px;
+    width: 100%;
+    margin:10px 0;
+}
+table.select_company_table th {
+    background-color: #ACC8CC;
+    border-color: #729EA5;
+    border-style: solid;
+    border-width: 1px;
+    font-size: 12px;
+    padding: 8px;
+    text-align: center;
+}
+table.select_company_table tr {
+    background-color: #D4E3E5;
+}
+table.select_company_table td {
+    border-color: #729EA5;
+    border-style: solid;
+    border-width: 1px;
+    font-size: 12px;
+    padding: 8px;
+}
+.button_area_create_ammount {
+margin: auto;
+padding-top: 10px;
+width: -moz-fit-content;
+padding-left: 112px;
+}
+.create_account_main_box {
+  margin: 20px auto;
+  min-height: 100px;
+  width: 59%;
+  font-family: arial;
+}
+.change_password_main_box {
+font-family: arial;
+margin: 20px auto;
+min-height: 100px;
+width: 900px;
+}
+.create_account_left_area {
+  border-right: 1px solid #DDDDDD;
+  float: left;
+  margin: -10px;
+  min-height: 375px;
+  overflow: hidden;
+  padding:30px 10px;
+  width: 450px;
+}
+.create_account_right_area {
+  float: left;
+  margin-left: 20px;
+  overflow: hidden;
+  width: 383px;
+}
+.create_account_content {
+  background: none repeat scroll 0 0 #FFFFFF;
+  border: 1px solid #909090;
+  margin: 0 auto;
+  overflow: hidden;
+  padding:30px 10px;
+}
+
+.change_password_content {
+  background: none repeat scroll 0 0 #FFFFFF;
+  border: 1px solid #909090;
+  margin: 0 auto;
+  overflow: hidden;
+  padding:10px;
+}
+.change_password_left_area {
+  
+  margin: 0 auto;
+  min-height: 290px;
+  overflow: hidden;
+  padding: 30px 10px;
+  width: 600px;
+}
+.change_password_right_area {
+  border-top: 1px solid #DDDDDD;
+  margin: 0 auto;
+  min-height: 230px;
+  overflow: hidden;
+  width: 600px;
+  padding-top:20px;
+}

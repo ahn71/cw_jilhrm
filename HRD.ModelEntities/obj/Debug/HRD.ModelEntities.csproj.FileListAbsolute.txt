@@ -1,0 +1,154 @@
+E:\Web Applications\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+E:\Web Applications\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+E:\Web Applications\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+E:\Web Applications\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+E:\Web Applications\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb
+\\192.168.1.33\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+\\192.168.1.33\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+\\192.168.1.33\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+\\192.168.1.33\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+\\192.168.1.33\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb
+\\ROHOL\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+\\ROHOL\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+\\ROHOL\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+\\ROHOL\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+\\ROHOL\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb
+D:\Running Project\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+D:\Running Project\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+D:\Running Project\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+D:\Running Project\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+D:\Running Project\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb
+\\192.168.1.36\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+\\192.168.1.36\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+\\192.168.1.36\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+\\192.168.1.36\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+\\192.168.1.36\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb
+D:\Running Project\HRM\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+D:\Running Project\HRM\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+D:\Running Project\HRM\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+D:\Running Project\HRM\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+D:\Running Project\HRM\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb
+E:\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+E:\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+E:\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+E:\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+E:\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb
+E:\All Source Project\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+E:\All Source Project\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+E:\All Source Project\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+E:\All Source Project\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+E:\All Source Project\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb
+\\192.168.1.32\Common\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+\\192.168.1.32\Common\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+\\192.168.1.32\Common\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+\\192.168.1.32\Common\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+\\192.168.1.32\Common\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb
+D:\Running Project\Common\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+D:\Running Project\Common\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+D:\Running Project\Common\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+D:\Running Project\Common\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb
+D:\Running Project\Common\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+D:\HRMProject\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+D:\HRMProject\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+D:\HRMProject\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+D:\HRMProject\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+D:\HRMProject\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb
+\\192.168.1.32\Common\MSL\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+\\192.168.1.32\Common\MSL\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+\\192.168.1.32\Common\MSL\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+\\192.168.1.32\Common\MSL\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+\\192.168.1.32\Common\MSL\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb
+\\NAYEM-PC\Common\MSL\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+\\NAYEM-PC\Common\MSL\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+\\NAYEM-PC\Common\MSL\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+\\NAYEM-PC\Common\MSL\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+\\NAYEM-PC\Common\MSL\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb
+D:\Running Project\Common\MSL\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+D:\Running Project\Common\MSL\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+D:\Running Project\Common\MSL\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+D:\Running Project\Common\MSL\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+D:\Running Project\Common\MSL\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb
+\\192.168.1.35\Running Project\HRM\Project\MSL\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+\\192.168.1.35\Running Project\HRM\Project\MSL\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+\\192.168.1.35\Running Project\HRM\Project\MSL\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+\\192.168.1.35\Running Project\HRM\Project\MSL\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+\\192.168.1.35\Running Project\HRM\Project\MSL\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb
+\\192.168.1.35\Running Project\HRM\Project\SHEPHERD GROUP\New folder\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+\\192.168.1.35\Running Project\HRM\Project\SHEPHERD GROUP\New folder\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+\\192.168.1.35\Running Project\HRM\Project\SHEPHERD GROUP\New folder\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+\\192.168.1.35\Running Project\HRM\Project\SHEPHERD GROUP\New folder\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+\\192.168.1.35\Running Project\HRM\Project\SHEPHERD GROUP\New folder\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb
+G:\Running Project\HRM\Project\SHEPHERD GROUP\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+G:\Running Project\HRM\Project\SHEPHERD GROUP\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+G:\Running Project\HRM\Project\SHEPHERD GROUP\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+G:\Running Project\HRM\Project\SHEPHERD GROUP\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb
+\\192.168.1.35\Running Project\HRM\Project\SHEPHERD GROUP\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+\\192.168.1.35\Running Project\HRM\Project\SHEPHERD GROUP\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+\\192.168.1.35\Running Project\HRM\Project\SHEPHERD GROUP\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+\\192.168.1.35\Running Project\HRM\Project\SHEPHERD GROUP\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+\\192.168.1.35\Running Project\HRM\Project\SHEPHERD GROUP\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb
+\\192.168.88.240\Running Project\HRM\Project\SHEPHERD GROUP\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+\\192.168.88.240\Running Project\HRM\Project\SHEPHERD GROUP\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+\\192.168.88.240\Running Project\HRM\Project\SHEPHERD GROUP\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+\\192.168.88.240\Running Project\HRM\Project\SHEPHERD GROUP\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+\\192.168.88.240\Running Project\HRM\Project\SHEPHERD GROUP\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb
+G:\Running Project\HRM\Project\SHEPHERD GROUP\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+\\192.168.1.35\Running Project\HRM\Project\JAKSON\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+\\192.168.1.35\Running Project\HRM\Project\JAKSON\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+\\192.168.1.35\Running Project\HRM\Project\JAKSON\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+\\192.168.1.35\Running Project\HRM\Project\JAKSON\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+\\192.168.1.35\Running Project\HRM\Project\JAKSON\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb
+G:\Running Project\HRM\Project\JAKSON\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+G:\Running Project\HRM\Project\JAKSON\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+G:\Running Project\HRM\Project\JAKSON\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+G:\Running Project\HRM\Project\JAKSON\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+G:\Running Project\HRM\Project\JAKSON\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb
+\\192.168.1.41\Running Project\HRM\Project\JAKSON\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+\\192.168.1.41\Running Project\HRM\Project\JAKSON\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+\\192.168.1.41\Running Project\HRM\Project\JAKSON\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+\\192.168.1.41\Running Project\HRM\Project\JAKSON\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+\\192.168.1.41\Running Project\HRM\Project\JAKSON\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb
+\\192.168.1.41\Running Project\HRM\Project\JILHRM\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+\\192.168.1.41\Running Project\HRM\Project\JILHRM\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+\\192.168.1.41\Running Project\HRM\Project\JILHRM\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+\\192.168.1.41\Running Project\HRM\Project\JILHRM\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+\\192.168.1.41\Running Project\HRM\Project\JILHRM\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb
+\\192.168.1.35\Running Project\HRM\Project\JILHRM\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+\\192.168.1.35\Running Project\HRM\Project\JILHRM\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+\\192.168.1.35\Running Project\HRM\Project\JILHRM\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+\\192.168.1.35\Running Project\HRM\Project\JILHRM\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+\\192.168.1.35\Running Project\HRM\Project\JILHRM\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb
+D:\Running Project\JILHRM\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+D:\Running Project\JILHRM\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+D:\Running Project\JILHRM\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+D:\Running Project\JILHRM\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+D:\Running Project\JILHRM\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb
+D:\Running Project\JILHRM\Backup JILHRM\11-12-2017\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+D:\Running Project\JILHRM\Backup JILHRM\11-12-2017\HRM_NEW\GloryERP\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+D:\Running Project\JILHRM\Backup JILHRM\11-12-2017\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+D:\Running Project\JILHRM\Backup JILHRM\11-12-2017\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+D:\Running Project\JILHRM\Backup JILHRM\11-12-2017\HRM_NEW\GloryERP\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb
+D:\Running projects\JILHRM\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+D:\Running projects\JILHRM\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+D:\Running projects\JILHRM\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+D:\Running projects\JILHRM\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csproj.CoreCompileInputs.cache
+D:\Running projects\JILHRM\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+D:\Running projects\JILHRM\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb
+C:\Official Doc (Nayem)\Runnig projects123\cw_jilhrm\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+C:\Official Doc (Nayem)\Runnig projects123\cw_jilhrm\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+C:\Official Doc (Nayem)\Runnig projects123\cw_jilhrm\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+C:\Official Doc (Nayem)\Runnig projects123\cw_jilhrm\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csproj.CoreCompileInputs.cache
+C:\Official Doc (Nayem)\Runnig projects123\cw_jilhrm\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+C:\Official Doc (Nayem)\Runnig projects123\cw_jilhrm\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb
+C:\Official Doc (Nayem)\Runnig projects\cw_jilhrm\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+C:\Official Doc (Nayem)\Runnig projects\cw_jilhrm\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+C:\Official Doc (Nayem)\Runnig projects\cw_jilhrm\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+C:\Official Doc (Nayem)\Runnig projects\cw_jilhrm\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csproj.CoreCompileInputs.cache
+C:\Official Doc (Nayem)\Runnig projects\cw_jilhrm\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+C:\Official Doc (Nayem)\Runnig projects\cw_jilhrm\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb
+D:\Running projects\cw_jilhrm\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+D:\Running projects\cw_jilhrm\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+D:\Running projects\cw_jilhrm\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+D:\Running projects\cw_jilhrm\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csproj.CoreCompileInputs.cache
+D:\Running projects\cw_jilhrm\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+D:\Running projects\cw_jilhrm\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb

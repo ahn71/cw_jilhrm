@@ -1,0 +1,24 @@
+﻿
+.personnel_Category_Group {
+border-right: 1px solid;
+    border-top: 1px solid;
+    float: left;
+    height: 608px;
+    padding-top: 27px;
+    width: 112px;
+
+}
+.Mail_Partial_Info {
+   
+    float: left;
+    height: 608px;
+    width: 85%;
+    margin-left:4px;
+}
+.btnForMailPart {
+background: #3B5998;
+    font-weight: bold;
+    height: 31px;
+    width: 105px;
+    color:white;
+}

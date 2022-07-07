@@ -1,0 +1,60 @@
+﻿body 
+{
+    
+}
+.getMessage
+{
+    background:#8B8255;
+    font-family:Arial,verenda;
+    margin:o;
+    padding:0;
+    color:#009C44;
+    font-size:18px;
+    width:100%;
+    height:35px;
+    border:1px solid #0010E7;
+  
+    
+}
+.boxFotter
+{
+    background:url("t.jpg") repeat-x 
+transparent;
+   
+   
+   
+    
+    height:35px;
+    border: 1px solid #DDD;
+    clear: left;
+}
+.boxFotter h2 {
+  cursor: move;
+  font-family: Arial;
+  font-size: 17px;
+  font-weight: bold;
+  height: 30px;
+  line-height: 30px;
+  margin: -6px;
+  text-align: center;
+
+
+  background: none repeat scroll 0 0 #086A99;
+  border-color: #076591 #0C5870 #0C5870;
+  border-style: solid;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-width: 1px;
+  box-shadow: 0 1px 1px 0 rgba(255, 255, 255, 0.77) inset;
+  color: #FFFFFF;
+
+}
+
+.popCon {
+    position:absolute;
+}
+    
+ 
+    
+    
+   

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="StaffIDCard" targetNamespace="http://tempuri.org/StaffIDCard.xsd" xmlns:mstns="http://tempuri.org/StaffIDCard.xsd" xmlns="http://tempuri.org/StaffIDCard.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="StaffIDCard" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="StaffIDCard" msprop:Generator_UserDSName="StaffIDCard">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="StaffIDCard" msprop:Generator_TableClassName="StaffIDCardDataTable" msprop:Generator_TableVarName="tableStaffIDCard" msprop:Generator_TablePropName="_StaffIDCard" msprop:Generator_RowDeletingName="StaffIDCardRowDeleting" msprop:Generator_RowChangingName="StaffIDCardRowChanging" msprop:Generator_RowEvHandlerName="StaffIDCardRowChangeEventHandler" msprop:Generator_RowDeletedName="StaffIDCardRowDeleted" msprop:Generator_UserTableName="StaffIDCard" msprop:Generator_RowChangedName="StaffIDCardRowChanged" msprop:Generator_RowEvArgName="StaffIDCardRowChangeEvent" msprop:Generator_RowClassName="StaffIDCardRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="EmpNameBn" msprop:Generator_ColumnVarNameInTable="columnEmpNameBn" msprop:Generator_ColumnPropNameInRow="EmpNameBn" msprop:Generator_ColumnPropNameInTable="EmpNameBnColumn" msprop:Generator_UserColumnName="EmpNameBn" type="xs:string" minOccurs="0" />
+              <xs:element name="EmpCardNo" msprop:Generator_ColumnVarNameInTable="columnEmpCardNo" msprop:Generator_ColumnPropNameInRow="EmpCardNo" msprop:Generator_ColumnPropNameInTable="EmpCardNoColumn" msprop:Generator_UserColumnName="EmpCardNo" type="xs:int" minOccurs="0" />
+              <xs:element name="EmpJoiningDay" msprop:Generator_ColumnVarNameInTable="columnEmpJoiningDay" msprop:Generator_ColumnPropNameInRow="EmpJoiningDay" msprop:Generator_ColumnPropNameInTable="EmpJoiningDayColumn" msprop:Generator_UserColumnName="EmpJoiningDay" type="xs:int" minOccurs="0" />
+              <xs:element name="EmpJoiningMonth" msprop:Generator_ColumnVarNameInTable="columnEmpJoiningMonth" msprop:Generator_ColumnPropNameInRow="EmpJoiningMonth" msprop:Generator_ColumnPropNameInTable="EmpJoiningMonthColumn" msprop:Generator_UserColumnName="EmpJoiningMonth" type="xs:int" minOccurs="0" />
+              <xs:element name="EmpJoiningYear" msprop:Generator_ColumnVarNameInTable="columnEmpJoiningYear" msprop:Generator_ColumnPropNameInRow="EmpJoiningYear" msprop:Generator_ColumnPropNameInTable="EmpJoiningYearColumn" msprop:Generator_UserColumnName="EmpJoiningYear" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

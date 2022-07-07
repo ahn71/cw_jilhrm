@@ -1,0 +1,25 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Glory.Master" AutoEventWireup="true" CodeBehind="personnel_NestedMaster.master.cs" Inherits="SigmaERP.personnel_NestedMaster" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+     <asp:ContentPlaceHolder ID="head" runat="server"> </asp:ContentPlaceHolder> </asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+     <asp:ContentPlaceHolder ID="MainContent" runat="server"> </asp:ContentPlaceHolder>
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            var host = $(window.location).attr('host');
+            var currenturl = window.location;
+            $('.commmonclass').each(function () {
+                var href = $(this).attr('href');
+                href = 'http://' + host + href;
+                if (currenturl == href) {
+                    $(this).attr('class', 'commmonclass hrd_menu');
+                }
+                else {
+                    $(this).attr('class', 'commmonclass');
+                }
+
+            });
+        });
+
+    </script>
+</asp:Content>

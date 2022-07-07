@@ -1,0 +1,105 @@
+﻿/** ===================== Modal Custom CSS ========================*/
+
+.LoadingImg{
+    width: 80%;
+    margin-left: 10px;
+    padding-top: 5px;
+}
+
+.updateProgress {
+    /*background-color: #fff;*/    
+    width: 200px;
+    height: 100px;
+    left: -5px;
+    position: absolute;
+    top: 501px;
+    padding: 50px 0 0 0;
+    color: #1A4C1A;
+    font-family:Georgia;
+    font-size:16px;
+    font-weight:bold;       
+}
+
+.updateProgress img {
+    margin-bottom: 10px;
+}
+
+.modal-header {
+    /*background-color:#23282c;
+    color:white;*/
+    padding: 0px;
+}
+
+.modal-body{
+
+}
+
+.modal-footer{
+    margin-top: 0px;
+}
+
+.modalBackground {
+    background-color: white;
+    filter: alpha(opacity=70);
+    opacity: 0.8;    
+}
+
+.modalPopup {
+    background-color: #ffffdd;
+    border-color: Gray;
+    border-style: solid;
+    border-width: 2px;
+    height: 440px;
+    padding: 3px;
+    width: 800px;
+}
+
+.ModalPopupBG
+{
+    background-color: #000;
+    filter: alpha(opacity=70);
+    opacity: 0.8;
+}
+
+.confirmationModal {
+    min-height:200px;
+    min-width:200px;    
+    background:#fff;
+}
+
+.confirmationModal900 {
+    min-height:200px;
+    min-width:200px;
+    width:900px;    
+    background:#fff;
+}
+
+.confirmationModal800 {
+    min-height:200px;
+    min-width:200px;
+    width:800px;    
+    background:#fff;
+}
+
+.confirmationModal500 {
+    min-height:200px;
+    min-width:200px;
+    width:500px;    
+    background:#fff;
+}
+
+.confirmationModal400 {
+    min-height:200px;
+    min-width:200px;
+    width:400px;    
+    background:#fff;
+}
+
+.confirmationModal300 {
+    min-height:200px;
+    min-width:200px;
+    width:300px;    
+    background:#fff;
+}
+
+/** ===================== END Modal Custom CSS ========================*/

@@ -1,0 +1,742 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Glory.Master.cs" Inherits="SigmaERP.Glory" %>
+<!DOCTYPE html>
+<html>    
+<head runat="server">
+    <meta charset="utf-8" />
+    <title></title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width" />
+    <link href="/style/main.css" rel="stylesheet" />
+    <link href="/style/master.css" rel="stylesheet" />
+    <link href="/style/hrd.css" rel="stylesheet" />
+    <link href="/style/personnel.css" rel="stylesheet" />
+    <link href="/style/Leave.css" rel="stylesheet" />
+    <link href="/style/attendance.css" rel="stylesheet" />
+    <link href="/style/payroll.css" rel="stylesheet" />
+    <link href="/style/Pf.css" rel="stylesheet" />
+    <link href="/style/tools.css" rel="stylesheet" />
+    <link href="/style/gridview.css" rel="stylesheet" />
+    <link href="style/themes/base/jquery-ui.css" rel="stylesheet" />
+
+    <script src="/scripts/jquery-2.0.0.min.js"></script>
+    <script src="/scripts/jx.js"></script>
+    <link href="/style/dataTables.css" rel="stylesheet" />
+    <link href="/style/flipclock.css" rel="stylesheet" />
+    <link href="style/ProgressBar.css" rel="stylesheet" />
+    <link href="style/Mail.css" rel="stylesheet" />
+    <link href="style/tab_style.css" rel="stylesheet" />
+    <script src="/scripts/twentyfourhourclock.js"></script>
+    <script src="/scripts/twelvehourclock.js"></script>
+    <script src="/scripts/counter.js"></script>
+    <script src="/scripts/base.js"></script>
+    <script src="/scripts/flipclock.js"></script>
+    <script src="/scripts/dailycounter.js"></script>
+    <script src="/scripts/hourlycounter.js"></script>
+    <script src="/scripts/minutecounter.js"></script>
+    <script src="/scripts/select2.min.js"></script>
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" >
+    <link runat="server" href="~/AssetsNew/bs3/css/bootstrap.min.css" rel="stylesheet" />
+    <link runat="server" href="~/AssetsNew/bs3/css/jquery.dataTables.min.css" rel="stylesheet" />
+    <link runat="server" href="~/AssetsNew/js/jquery-ui/jquery-ui-1.10.1.custom.min.css" rel="stylesheet" />
+    <link runat="server" href="~/AssetsNew/css/bootstrap-reset.css" rel="stylesheet" />
+
+     <link runat="server" href="~/AssetsNew/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+    <link runat="server" href="~/AssetsNew/js/jvector-map/jquery-jvectormap-1.2.2.css" rel="stylesheet" />
+    <link runat="server" href="~/AssetsNew/css/clndr.css" rel="stylesheet" />
+    <!--clock css-->
+    <link runat="server" href="~/AssetsNew/js/css3clock/css/style.css" rel="stylesheet" />
+     <link runat="server" href="~/AssetsNew/js/fullcalendar/bootstrap-fullcalendar.css" rel="stylesheet" />
+    <link runat="server" href="~/AssetsNew/css/modalStyle.css" rel="stylesheet" />
+    <link runat="server" href="~/AssetsNew/css/style.css" rel="stylesheet" />
+    <link runat="server" href="~/AssetsNew/css/style-responsive.css" rel="stylesheet" />
+    <link runat="server" href="~/AssetsNew/css/responsive.css" rel="stylesheet" />
+    <link runat="server" href="~/AssetsNew/css/dassboard_title_nagivation.css" rel="stylesheet" />
+    <link href="style/select2.css" rel="stylesheet" />
+    <style>
+        .tooltip {
+  border-bottom: 1px solid red;
+  color: red;
+  display: inline-block;
+  opacity: 1;
+  position: relative;
+}
+
+.tooltip .tooltiptext {
+  background-color: #555;
+  border-left: 1px solid;
+  border-radius: 53px;
+  border-right: 1px solid;
+  bottom: 148%;
+  color: #fff;
+  font-size: 13px;
+  height: 79px;
+  left: 30%;
+  opacity: 1 !important;
+  padding: 10px 0;
+  position: absolute;
+  text-align: center;
+  transition: opacity 1s ease 0s;
+  visibility: hidden;
+  width: 85px;
+  z-index: 1;
+}
+.tooltiptext {
+  padding: 10px 0 !important;
+}
+
+.count {
+  background: red none repeat scroll 0 0;
+  border: 1px solid red;
+  border-radius: 14px;
+  height: 23px;
+  margin: 0 auto;
+  padding: 1px 0;
+  width: 23px;
+  font-weight:600;
+}
+
+.tooltip .tooltiptext::after {
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #008000 transparent transparent transparent;
+}
+
+.tooltip > img {
+  margin-left: -37px;
+  margin-top: -47px;
+}
+
+.tooltip > a {
+  color: red;
+}
+.tooltiptext {
+  background: #ff8c00 none repeat scroll 0 0 !important;
+}
+.tooltip .tooltiptext {
+    visibility: initial;
+    opacity: 1;
+}
+
+
+
+      .tooltip1 {
+  border-bottom: 1px solid red;
+  color: red;
+  display: inline-block;
+  opacity: 1;
+  position: relative;
+}
+
+.tooltip1 .tooltiptext1 {
+  background-color: #555;
+  border: 1px solid red;
+  border-radius: 20px;
+  bottom: 148%;
+  color: #fff;
+  font-size: 13px;
+  height: 73px;
+  left: -2%;
+  margin-bottom: -6px;
+  opacity: 1 !important;
+  padding: 5px 0;
+  position: absolute;
+  text-align: center;
+  transition: opacity 1s ease 0s;
+  visibility: hidden;
+  width: 110px;
+  z-index: 1;
+}
+
+.tooltip1 .tooltiptext1::after {
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #008000 transparent transparent transparent;
+}
+
+.tooltip1 > img {
+  margin-left: -37px;
+  margin-top: -47px;
+}
+
+.tooltip1 > a {
+  color: red;
+  font-size:12px
+}
+.tooltiptext1 {
+  background: #ff8c00 none repeat scroll 0 0 !important;
+}
+.tooltip1 .tooltiptext1 {
+    visibility: initial;
+    opacity: 1;
+}
+    </style>
+   <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+     <form id="Form1" runat="server" >
+   
+    <div class="col-lg-12"  style="margin-bottom: 40px;">
+      
+        <div class="header_top">
+            <div class="row">
+                <div class="col-md-4">
+                     <p class="ds_Main_HeaderBar">Human Resource Management<span class="ds_Main_HeaderBar_ShortName" > (HRM)</span></p>
+                </div>
+                <div class="col-md-8">
+                    <div class="topbar-rightside">
+                        <ul class="topbar-action">
+                            <li><p runat="server" id="UserName" Class="acbtn ds-uname" ></p></li>
+                            <li><p runat="server" id="UserType" Class="acbtn ds-utype" >User Type</p></li>
+                            <li><p runat="server" id="GSName" class="acbtn ds-gsname">Unknown</p></li>
+                            <li><asp:Button  id="btnLogout" Class="acbtn ds-logout" runat="server" Text="Log Out" OnClick="btnLogout_Click" /></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="content_area">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                   <asp:ScriptManager ID="ScriptManager" AsyncPostBackTimeout="600" runat="server"></asp:ScriptManager>
+            </asp:ContentPlaceHolder>
+            
+        </div>
+        <div class="footer_area"></div>
+    </div>
+         
+
+
+<%--- MESSAGE BOX ---%>
+<div id="lblErrorMessage" style="display: none; min-width: 100px; position: fixed;  top: 45px; z-index: 1; background-color: #5EA8DE; color: white; padding: 10px 30px 0px 15px;
+    border-radius: 5px; text-align: center;">
+    <p style="float: left; width: auto; min-height:30px; padding-right: 30px;">  </p>
+
+    <div style="position: absolute; right: 10px; padding-top: 13px; top: 4px; vertical-align: middle;"> <img src="/images/master/close2.png" style="color: black; height: 8px; width: 8px;
+            cursor: pointer;" onclick="$('#lblErrorMessage').fadeOut('slow');" />
+    </div>
+</div>
+         <script src="/scripts/adviitJS.js"></script>
+         <script src="/scripts/master.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+      //  alert("ok");
+         chatbox();
+        //updateLoginDateTimes();
+         loadOutDuty();
+         loadLateNotification();
+         loadPermanentNotification();
+        loadBirthDayNotification();
+        loadMessage();
+       
+    });
+
+    $(function() {
+        // Clickable Dropdown
+        $('.click-nav > ul').toggleClass('no-js js');
+        $('.click-nav .js ul').hide();
+        $('.click-nav .js').click(function(e) {
+            $('.click-nav .js ul').slideToggle(200);
+            $('.clicker').toggleClass('active');
+            e.stopPropagation();
+        });
+        $(document).click(function() {
+            if ($('.click-nav .js ul').is(':visible')) {
+                $('.click-nav .js ul', this).slideUp();
+                $('.clicker').removeClass('active');
+            }
+        });
+    });
+
+
+
+    $(document).ready(function () {
+        
+        var host = $(window.location).attr('host');
+        var currenturl = window.location;
+        $('.drop').each(function () {
+             var href = $(this).attr('href');
+            var currenthref = window.location.pathname;
+            if (currenthref == '/hrd_default.aspx' || currenthref == '/leave_default.aspx' || currenthref == '/attendance_default.aspx' || currenthref == '/personnel_defult.aspx') {
+                href = 'http://' + host + href;
+                if (currenturl == href) {
+                    $(this).attr('class', 'drop main_menu_active');
+                }
+                else {
+                    $(this).attr('class', 'drop');
+                }
+            }
+        });
+    });
+var hidePopup = true;
+var timeOutId = 0;
+var prm = Sys.WebForms.PageRequestManager.getInstance();
+prm.add_initializeRequest(InitializeRequest);
+prm.add_endRequest(EndRequest);
+function InitializeRequest(sender, args) {
+
+}
+
+function EndRequest(sender, args) {
+
+    if ($('#lblMessage').text().length > 1) {
+        showMessage($('#lblMessage').text(), '');
+    }
+
+
+    //setTimeout("setPopupInMiddle()",1000);
+}
+
+
+function showMessage(message, messageType) {
+
+    try {
+        $('#lblErrorMessage').hide();
+
+        clearTimeout(timeOutId);
+
+        var backColor = '#141614';
+        var foreColor = '#FFF';
+        var timeOut = 15000;
+
+
+        if (message.indexOf('->') == -1) {
+            if (messageType.length == 0) message = "info->" + message;
+            else message = messageType + "->" + message;
+        }
+
+        var msg = message.split('->');
+        messageType = msg[0];
+        var msgBox = $('#lblErrorMessage');
+        msgBox.css('width', 'auto');
+
+
+        if (messageType == 'warning') {
+            backColor = '#FFCD3C';
+            foreColor = 'Black';
+        }
+        else if (messageType == 'success') {
+            timeOut = 5000;
+            backColor = '#5BD45B';
+        }
+        else if (messageType == 'error') backColor = '#EF494B';
+
+        msgBox.css('background-color', backColor);
+        msgBox.css('color', foreColor);
+
+        if (msg[1].length == 0) {
+            hideErrorMessage();
+            return;
+        }
+
+        $('#lblErrorMessage p').html(msg[1]);
+
+
+        msgBox.css('z-index', '999999999');
+        if (msgBox.width() > 600) msgBox.css('width', '600px');
+
+
+        if ($('.popBox:visible').length == 1) {
+            var pos = $('.popBox:visible').offset();
+
+            msgBox.css('position', 'absolute');
+            msgBox.css('top', pos.top + 8);
+            msgBox.css('right', '').css('left', pos.left + ($('.popBox:visible').width() / 2 - msgBox.width() / 2));
+        }
+        else {
+            msgBox.css('position', 'fixed');
+            msgBox.css('top', 37);
+            msgBox.css('left', '50%');
+            msgBox.css('margin-left', '-' + (msgBox.width() / 2) + "px");
+        }
+
+        msgBox.fadeIn(500);
+        timeOutId = setInterval("hideErrorMessage()", timeOut);
+
+        $('#lblMessage').text('');
+    }
+    catch (e) {
+        console.log(e.message);
+    }   
+}
+
+function hideChatBox() {
+    try {
+
+        $('#divChatBox').hide();
+    }
+    catch (e) {
+
+    }
+}
+
+function chatbox() {
+    //alert("123");
+    $.post("chatnotify.aspx",
+        {
+        },
+        function (data) {
+            if (data.d != "") {
+                $("div#divNotify").html(data.d);
+            }
+        })
+}
+
+
+    function loadMessage() {
+
+        // var senderId = $('#dlSenderId option:selected').val();
+        var serverURL = window.location.protocol + "//" + window.location.host + "/";
+        
+        $.ajax({
+            type: "POST",
+
+            contentType: "application/json; charset=utf-8",
+            data: "{ ReceiverId:'" + 10 + "'}",
+            url: serverURL + "others/chatnotify.aspx/loadMessage",
+            dataType: "json",
+            success: function (data) {
+                if (data.d != "") {
+                    // alert(data.d);
+                    var msg = data.d.split('_');
+                    if (msg.length == 3) {
+
+                        if (msg[1] != "") {
+                            //alert('OK');
+                            $('#lv').show();
+                            $('#shortlv').show();
+                            // $('#spanChatNotify').show();
+                            $('#lvcount').html(msg[1]);
+                            $('#slvcount').html(msg[2]);
+                            //$('#spanChatNotify').fadeOut(10000);
+                        }
+                    }
+                    else {
+                        if (msg[0] == "forlv") {
+                            $('#lv').show();
+                            $('#lvcount').html(msg[1]);
+                            $('#shortlv').hide();
+                        }
+                        else {
+                            $('#shortlv').show();
+                            $('#slvcount').html(msg[1]);
+                            $('#lv').hide();
+                        }
+                    }
+                    //}
+                                   
+                }
+                else {
+                    $('#lv').hide();
+                    $('#shortlv').hide();
+                }
+                // $('#divMessages').html(data.d);
+            }
+        });
+
+        setTimeout("loadMessage()", 5000);
+    }
+    function loadOutDuty() {
+
+        // var senderId = $('#dlSenderId option:selected').val();
+        var serverURL = window.location.protocol + "//" + window.location.host + "/";
+
+        $.ajax({
+            type: "POST",
+
+            contentType: "application/json; charset=utf-8",
+            data: "{ ReceiverId:'" + 10 + "'}",
+            url: serverURL + "others/chatnotify.aspx/loadOutDuty",
+            dataType: "json",
+            success: function (data) {
+                if (data.d != "") {
+                   
+                        $('#od').show();
+                        $('#odcount').html(data.d);
+                           
+                   
+                }
+                else {
+                    $('#od').hide();
+                  
+                }
+                // $('#divMessages').html(data.d);
+            }
+        });
+
+        setTimeout("loadOutDuty()", 5000);
+    }
+    function loadLateNotification() {
+
+        // var senderId = $('#dlSenderId option:selected').val();
+        var serverURL = window.location.protocol + "//" + window.location.host + "/";
+
+        $.ajax({
+            type: "POST",
+
+            contentType: "application/json; charset=utf-8",
+            data: "{ ReceiverId:'" + 10 + "'}",
+            url: serverURL + "others/chatnotify.aspx/loadLateNotification",
+            dataType: "json",
+            success: function (data) {
+                if (data.d != "") {
+
+                    $('#ln').show();
+                    $('#lncount').html(data.d);
+
+
+                }
+                else {
+                    $('#ln').hide();
+
+                }
+                // $('#divMessages').html(data.d);
+            }
+        });
+
+        setTimeout("loadLateNotification()", 5000);
+    }
+     function loadBirthDayNotification() {
+
+        // var senderId = $('#dlSenderId option:selected').val();
+        var serverURL = window.location.protocol + "//" + window.location.host + "/";
+
+        $.ajax({
+            type: "POST",
+
+            contentType: "application/json; charset=utf-8",
+            data: "{ ReceiverId:'" + 10 + "'}",
+            url: serverURL + "others/chatnotify.aspx/loadBirthDayNotification",
+            dataType: "json",
+            success: function (data) {
+                if (data.d != "") {
+
+                    $('#bn').show();
+                    $('#bncount').html(data.d);
+
+
+                }
+                else {
+                    $('#bn').hide();
+
+                }
+                // $('#divMessages').html(data.d);
+            }
+        });
+
+        setTimeout("loadBirthDayNotification()", 5000);
+    }
+    function loadPermanentNotification() {
+
+        // var senderId = $('#dlSenderId option:selected').val();
+        var serverURL = window.location.protocol + "//" + window.location.host + "/";
+
+        $.ajax({
+            type: "POST",
+
+            contentType: "application/json; charset=utf-8",
+            data: "{ ReceiverId:'" + 10 + "'}",
+            url: serverURL + "others/chatnotify.aspx/loadPermanentNotification",
+            dataType: "json",
+            success: function (data) {
+                if (data.d != "") {
+
+                    $('#pn').show();
+                    $('#pncount').html(data.d);
+
+
+                }
+                else {
+                    $('#pn').hide();
+
+                }
+                // $('#divMessages').html(data.d);
+            }
+        });
+
+        setTimeout("loadPermanentNotification()", 5000);
+    }
+
+    function updateLoginDateTimes() {
+
+        var serverURL = window.location.protocol + "//" + window.location.host + "/";
+        // var senderId = $('#dlSenderId option:selected').val();
+
+         //alert("O123");
+        $.ajax({
+            type: "POST",
+
+            contentType: "application/json; charset=utf-8",
+            data: "{ ReceiverId:'" + 10 + "'}",
+            url: serverURL + "others/chatnotify.aspx/updateLoginDateTime",
+            dataType: "json",
+            success: function (data) {   
+            }
+        });
+
+        setTimeout("updateLoginDateTimes()", 120000);
+    }
+
+    
+    $('#btnAdminType').click(function () {
+
+
+        var serverURL = window.location.protocol + "//" + window.location.host + "/";
+        window.location = serverURL + "ControlPanel/Login.aspx?f='sl'";
+       
+       
+    });
+    
+function hideErrorMessage() {
+    $('#lblErrorMessage').fadeOut('3000');
+    clearTimeout(timeOutId);
+}
+</script>
+ <script> 
+     $( document ).ready(function() {
+        $(".key-off").attr('readonly','readonly'); 
+     });
+
+
+</script>   
+
+<script>
+$(document).ready(function(){
+  $('[data-toggle="tooltip"]').tooltip();   
+});
+</script>            
+         
+
+   <asp:UpdatePanel  runat="server" ID="up00" UpdateMode="Conditional">
+       <Triggers>
+        <%--   <asp:AsyncPostBackTrigger ControlID="liChat" />--%>
+           
+       </Triggers>
+       <ContentTemplate>
+ 
+    <div class="chat-box" runat="server" id="divChatBox" visible="false" >
+        <h3>Chat Box
+            <span style=" float:right">
+                <asp:Label ID="lblgetStatus" runat="server" ></asp:Label>
+            </span>
+            <span class="close_button_chat">
+                <asp:Button ID="btnClose_ChatBox" runat="server" OnClick="btnClose_ChatBox_Click"  />
+            </span>
+        </h3>
+        
+        <div style="float:left">
+             <fieldset style="font-weight:bold;margin-left: 15px;">
+                         <legend style="font-weight:bold;margin-left: 15px;">Longin User List</legend> 
+                            <asp:RadioButtonList RepeatDirection="Horizontal" runat="server" ID="chkLoginUseList" AutoPostBack="true"  style="margin-top:10px" OnSelectedIndexChanged="chkLoginUseList_SelectedIndexChanged"  ></asp:RadioButtonList>
+                         
+                     </fieldset>   
+        </div>
+    <div class="chat-box-content">
+       
+        
+        <asp:Label runat="server" CssClass="chating_name" ID="lblSelectUserForChat" Text="SelectedUser" ></asp:Label>
+        <asp:TextBox runat ="server"  ID="txtChat" CssClass="chat-text-box" TextMode="MultiLine" ></asp:TextBox>
+        <asp:Button runat="server" ID="btnTextSend" CssClass="chat-box-button" Text="Send" OnClick="btnTextSend_Click" />
+
+		</div>
+       
+	</div>
+
+       
+
+ </ContentTemplate>
+   </asp:UpdatePanel>
+         
+    <div class="footer">
+        <div class="row">
+            <div class="col-lg-12">
+                <div id="lv" class="dropdown alert-bell-icon">
+                  <a href="/leave/for_approve_leave_list.aspx" data-toggle="tooltip" data-placement="top" title="Applied Leave List" target="_blank"  role="button" id="" data-target="#" style="float: left" aria-expanded="true">
+                        <i class="fas fa-plane"></i>
+                    </a>
+                  <span id="lvcount" class="badge badge-danger"></span>
+                </div>
+                 <div id="od" class="dropdown alert-bell-icon">
+                  <a href="/attendance/out_duty_approval.aspx" data-toggle="tooltip" data-placement="top" title="Applied Out Duty" target="_blank" role="button" id="" data-target="#" style="float: left" aria-expanded="true">
+                        <i class="fas fa-door-open"></i>
+                    </a>
+                  <span id="odcount" class="badge badge-danger"></span>
+                </div>
+                <div id="ln" class="dropdown alert-bell-icon">
+                  <a href="/Notification.aspx?for=ln" data-toggle="tooltip" data-placement="top" title="Late Notification" target="_blank" role="button"  id="" data-target="#" style="float: left" aria-expanded="true">
+                        <i class="fa fa-clock-o"></i>
+                    </a>
+                  <span id="lncount" class="badge badge-danger"></span>
+                </div>
+                <div id="pn"  class="dropdown alert-bell-icon">
+                  <a href="/Notification.aspx?for=pn" target="_blank" role="button" data-toggle="tooltip" data-placement="top" title="Permanent Employee" id="" data-target="#" style="float: left" aria-expanded="true" >
+                       <i class="fas fa-user-check"></i>
+                    </a>
+                  <span id="pncount" class="badge badge-danger"></span>
+                </div>
+                <div id="bn"  class="dropdown alert-bell-icon">
+                  <a href="/Notification.aspx?for=bn"  data-toggle="tooltip" data-placement="top" title="Birthday" role="button"  id="" data-target="#" style="float: left" aria-expanded="true">
+                        <i class="fas fa-birthday-cake"></i>
+                    </a>
+                  <span id="bncount" class="badge badge-danger"></span>
+                </div>
+
+            </div>
+            <div class="col-lg-4">
+                 <%--&copy; copyright Codeware limited .--%>
+            </div>
+            <div  class="col-lg-2" hidden="hidden">
+                <div class="tooltip"><a  href="/Notification.aspx?for=pn" target="_blank">Permanent Notification</a>
+                  <span runat="server" id="pnText" class="tooltiptext"><div  class="count"></div></span>
+                    
+                    <img src="/images/icon1.png" />
+                </div>
+             </div>
+             <div  class="col-lg-2" hidden="hidden">
+                <div class="tooltip"><a  href="/Notification.aspx?for=ln" target="_blank">Late Notification</a>
+                  <span runat="server" id="lnText" class="tooltiptext"><div  class="count"></div></span>
+                    
+                    <img src="/images/icon1.png" />
+                </div>
+             </div>
+               <div  class="col-lg-2" hidden="hidden">
+                <div class="tooltip"><a  href="/attendance/out_duty_approval.aspx">Approve / Forward</a>
+                  <span class="tooltiptext">Pendding Out Duty <div  class="count"></div></span>
+                    
+                    <img src="/images/icon1.png" />
+                </div>
+             </div>
+            <div id="shortlv" class="col-lg-2" hidden="hidden">
+                <div class="tooltip"><a  href="/leave/for_approve_shortleave_list.aspx">Approve / Forward</a>
+                  <span class="tooltiptext">Pendding Short Leave <div id="slvcount" class="count"></div></span>
+                    
+                    <img src="/images/icon1.png" />
+                </div>
+             </div>
+             <div  class="col-lg-2" hidden="hidden">
+                <div class="tooltip1"><a href="/leave/for_approve_leave_list.aspx">Approve / Forward</a>
+                  <span class="tooltiptext1">Pendding</br> Leave <div  class="count"></div> </span>
+                    <img src="/images/icon1.png" />
+                </div>
+            </div>
+        </div>
+       
+    </div>  
+        
+      
+</form>
+
+
+</body>
+<%--<script src="/scripts/jquery-ui-1.8.7.min.js"></script>--%>
+</html>

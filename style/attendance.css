@@ -1,0 +1,313 @@
+﻿
+.attend_text_box_width {
+    margin-left: 3px;
+    width: 46px;
+    margin-top:3px;
+}
+.attend_select_min {
+  border: 1px solid #ddd;
+  padding: 5px;
+  border-radius: 4px;
+}
+.attendance_option {
+    width:450px;
+    margin:10px auto;
+}
+.attendance_option fieldset {
+    padding:10px;
+    border:1px solid #cccccc;
+    font-size:13px;
+
+}
+.dep_wise_atten_show_info {
+    padding:10px;
+    width:428px;
+    margin:10px auto;
+    border:1px solid #cccccc;
+}
+.target_show_info fieldset {
+    padding:10px;
+    border:1px solid #cccccc; 
+}
+
+/* import date */
+
+.import_top {
+    border:1px solid #cccccc;
+    padding:15px;
+    margin:10px;
+}
+.import_table {
+    border: 1px solid #CCCCCC;
+    margin: 20px 0;
+    padding: 5px;
+    width: 550px;
+}
+.import_table tr {
+    height: 30px;
+}
+.import_table tr td{
+    width:30px;
+}
+.import_middle {
+    border:1px solid #cccccc;
+    padding:15px;
+    margin:10px;
+}
+.import_middle p {
+    font-size:13px;
+    margin-bottom:20px;
+}
+.import_middle p:last-child {
+    margin-bottom:0px;
+}
+
+
+.import_bottom {
+    border:1px solid #cccccc;
+    padding:15px;
+    margin:10px;
+}
+.text_area {
+    width:545px;
+    height:80px;
+}
+
+ /*Job Card*/
+.job_card_box1 {
+}
+.job_card_table {
+    border: 1px solid #CCCCCC;
+    width: 600px;
+    border-collapse: collapse;
+}
+.job_card_table tr td{
+    padding: 10px;
+    text-align: center;
+}
+.job_card_table tr td:first-child{
+    border-right:1px solid #cccccc;
+}
+.job_card_box2 {
+    margin: 15px auto;
+    width: 550px;
+}
+.job_card_box3 {
+    overflow:hidden;
+    width:600px;
+}
+.job_card_left {
+    width:270px;
+    float:left;
+}
+.job_card_middle {
+    padding:5px;
+    float:left;
+    width:50px;
+    text-align:center;
+}
+.job_card_right {
+    width:270px;
+    float:left;
+}
+
+
+.next_button {
+	font-size:15px;
+	font-family:Arial;
+	font-weight:normal;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	border:1px solid #3866a3;
+	padding:5px 6px;
+	text-decoration:none;
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#63b8ee', endColorstr='#468ccf');
+	background-color:#63b8ee;
+	color:#ffffff;
+	text-shadow:1px 1px 0px #7cacde;
+ 	-webkit-box-shadow:inset 1px 1px 0px 0px #bee2f9;
+ 	-moz-box-shadow:inset 1px 1px 0px 0px #bee2f9;
+ 	box-shadow:inset 1px 1px 0px 0px #bee2f9;
+     margin-bottom:3px;
+     cursor:pointer;
+}
+.next_button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(5%, #468ccf), color-stop(100%, #63b8ee) );
+	background:-moz-linear-gradient( center top, #468ccf 5%, #63b8ee 100% );
+	background:-ms-linear-gradient( top, #468ccf 5%, #63b8ee 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#468ccf', endColorstr='#63b8ee');
+	background-color:#468ccf;
+}
+.next_button:active {
+	position:relative;
+	top:1px;
+}
+.job_card_button_area {
+    text-align:center;
+    margin:20px 0;
+}
+/*Late Report*/
+
+.late_report_box1 {
+    text-align: center;
+
+}
+.late_report_box2 {
+    margin: 15px 0;
+}
+.table_late_report {
+    margin:0 auto;
+}
+.table_late_report tr td{
+    width:200px;
+    text-align:center;
+}
+.late_report_box3 {
+    text-align:center;
+    margin:20px 0;
+}
+.late_report_button {
+    text-align:center;
+}
+
+/*Lunch Late Multiple Time*/
+.lunch_late_multi_box1 {
+    overflow:hidden;
+}
+.lunch_late_box1_left {
+    width:280px;
+    float:left;
+}
+.lunch_late_box1_left fieldset {
+    padding:10px;
+    border:1px solid #cccccc;
+}
+.lunch_late_table_option {
+}
+.lunch_late_table_option tr td {
+    width:200px;
+}
+.lunch_late_box1_right {
+    width:280px;
+    float:right;
+}
+.lunch_late_box1_right p{
+    text-align:center;
+}
+.lunch_late_box1_right  fieldset{
+    padding:10px;
+    border:1px solid #cccccc;
+}
+.lunch_late_multi_box2 {
+    overflow:hidden;
+
+}
+.lunch_late_table2 {
+    margin: 30px auto;
+}
+/*Daily Absence Report*/
+
+.daily_absence_report_box1 {
+    text-align: center;
+
+}
+.daily_absence_report_box2 {
+    margin: 15px 0;
+}
+.table_daily_absence_report {
+    margin:0 auto;
+}
+.table_daily_absence_report tr td{
+    width:200px;
+    text-align:center;
+}
+.daily_absence_report_box3 {
+    text-align:center;
+    margin:20px 0;
+}
+.daily_absence_report_box4 {
+    overflow:hidden;
+    width:580px;
+    border:1px solid #cccccc;
+    padding:10px 10px 20px 10px;
+}
+.daily_absence_report_left {
+    width:260px;
+    float:left;
+}
+.daily_absence_report_middle {
+    padding:5px;
+    float:left;
+    width:50px;
+    text-align:center;
+    margin-top:16px;
+}
+.daily_absence_report_right {
+    width:260px;
+    float:left;
+}
+
+/*Overtime Report*/
+
+.overtime_report_box1 {
+    margin: 15px 0;
+}
+.overtime_report_box1 fieldset{
+    width: 400px;
+    margin: 0 auto;
+    border: 1px solid #cccccc;
+
+}
+.table_daily_absence_report {
+    margin:0 auto;
+}
+.table_daily_absence_report tr td{
+    width:200px;
+    text-align:center;
+}
+.daily_absence_report_box3 {
+    text-align:center;
+    margin:20px 0;
+}
+.overtime_report_box2 {
+
+}
+.overtime_report_box2 fieldset{
+    width: 400px;
+    margin: 0 auto;
+    border: 1px solid #cccccc;
+    text-align:center;
+}
+.overtime_report_box3 {
+    text-align:center;
+    margin:20px 0;
+}
+
+/*monthly attendance*/
+.monthly_attend_table {
+    width:295px;
+    margin:0 auto;
+}
+.monthly_attend_table tr{
+    height:35px;
+}
+.text_box_width_import {
+    width:183px;
+}
+.header {
+    text-align:center;
+}
+.rowstyle {
+    text-align:center;
+}
+
+.att_date_picker .ajax__calendar_days, .ajax__calendar_months, .ajax__calendar_years {
+  width:auto !important;
+}
+.super_admin_option .att_date_picker tr td:first-child {
+  width: auto !important;
+}
+.super_admin_option .att_date_picker tr td:nth-child(3) {
+  width: auto !important;
+}

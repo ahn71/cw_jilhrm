@@ -1,0 +1,499 @@
+﻿/*loan*/
+.loan_top {
+    border:1px solid #cccccc;
+    padding:10px;
+    margin:10px 0;
+}
+.loan_top_top {
+}
+.loan_top_top_table {
+    width:450px;
+    margin:0 auto;
+    border-collapse:collapse;
+}
+
+.loan_top_top_table tr td{
+ text-align:center;
+}
+.loan_top_middle {
+
+}
+.loan_top_middle_table {
+    border-collapse: collapse;
+    margin: 15px auto;
+    width: 450px;
+}
+.loan_top_middle_table tr td{
+    text-align:center;
+}
+.text_box_width_loan {
+    width: 160px;
+    margin: 3px;
+}
+.loan_top_bottom {
+    margin: 0 auto;
+}
+
+.loan_middle {
+    border:1px solid #cccccc;
+    padding:10px;
+    margin:10px 0;
+}
+.loan_button {
+}
+
+/*Payroll Generation*/
+.payroll_generation_box1 {
+    overflow: hidden;
+    border: 1px solid #cccccc;
+    margin: 10px 0;
+}
+.payroll_generation_box1_left {
+    float: left;
+    padding: 10px;
+    width: 135px;
+}
+.payroll_generation_box1_left_table tr {
+    height:30px;
+}
+.payroll_generation_box1_right {
+    border-left: 1px solid #CCCCCC;
+    float: left;
+    padding: 10px;
+    width:422px;
+}
+.payroll_generation_box1_right_table tr td:first-child {
+    width:200px;
+}
+.payroll_generation_box2 {
+    border: 1px solid #CCCCCC;
+    padding: 10px;
+}
+.payroll_generation_box2_table {
+    margin: 0 auto;
+}
+.payroll_generation_box3 {
+    border:1px solid #9E9E9E;
+    margin:10px 0;
+    padding:10px;
+    outline:1px solid #D5D5D5;
+}
+.payroll_generation_button {
+    margin:10px 0;
+    text-align:center;
+}
+/*bonus_generation*/
+.bonus_generation {
+    border:1px solid #cccccc;
+    padding:10px 
+}
+.bonus_generation_table tr td:first-child {
+    width:200px;
+}
+/* Pay Slip */
+.pay_slip_box1 {
+    width:500px;
+    margin:10px auto;
+}
+.pay_slip_box1_table {
+}
+.pay_slip_box1_table tr{
+    height:30px;
+}
+.pay_slip_box1_table tr td{
+    width:90px;
+}
+.pay_slip_box1 fieldset {
+    border: 1px solid #cccccc;
+}
+.pay_slip_box1 fieldset legend{
+    font-weight:bold;
+}
+.pay_slip_box2 {
+    width:500px;
+    margin:10px auto;
+}
+.pay_slip_box2 p{
+    text-align:center;
+}
+.pay_slip_box2 fieldset {
+    border: 1px solid #cccccc;
+}
+.pay_slip_box2 fieldset legend{
+    font-weight:bold;
+}
+.pay_slip_box3 {
+    width: 500px;
+    margin: 10px auto;
+}
+.pay_slip_box3 p{
+    text-align:center;
+    font-weight:bold;
+}
+.pay_slip_box4 {
+  border: 1px solid #CCCCCC;
+  margin: auto;
+  overflow: hidden;
+  padding: 10px 10px 20px;
+  width: 476px;
+}
+.pay_slip_box4_left {
+  float: left;
+  width: 208px;
+}
+.pay_slip_box4_middle {
+  float: left;
+  margin-top: 16px;
+  padding: 5px;
+  text-align: center;
+  width: 50px;
+}
+.pay_slip_box4_right {
+  float: left;
+  width: 208px;
+}
+/* Monthly Salary Sheet */
+.monthly_salary_sheet_box1 {
+    margin: 0 auto;
+    width: 300px;
+}
+.monthly_salary_sheet_box1 fieldset {
+    border:1px solid #cccccc;
+}
+.monthly_salary_sheet_box1 legend, .monthly_salary_sheet_box2 legend, .monthly_salary_sheet_box3 legend{
+    font-weight:bold;
+}
+.monthly_salary_sheet_box2 {
+    overflow:hidden;
+    margin:15px 0;
+}
+.monthly_salary_sheet_box2_left {
+    float: left;
+    width: 285px;
+    margin-right: 30px;
+}
+.monthly_salary_sheet_box2_left table tr {
+    height:30px;
+}
+.monthly_salary_sheet_box2_left fieldset {
+    border:1px solid #cccccc;
+}
+.monthly_salary_sheet_box2_right {
+    float:left;
+    width:285px;
+}
+.monthly_salary_sheet_box2_right fieldset {
+    border:1px solid #cccccc;
+}
+.monthly_salary_sheet_box2_right table tr {
+    height:30px;
+}
+.monthly_salary_sheet_box3 fieldset {
+    border:1px solid #cccccc;
+}
+.monthly_salary_sheet_box3_table{
+    margin:0 auto;    
+}
+.monthly_salary_sheet_box3_table tr{
+    height:35px;
+}
+/*ot_payment_sheet_box1*/
+.ot_payment_sheet_box1 {
+    margin: 15px 0;
+}
+.ot_payment_sheet_box1_table {
+    margin:0 auto;
+}
+.ot_payment_sheet_box1_table tr{
+    height:35px;
+}
+.ot_payment_sheet_box1_table tr td:first-child{
+    text-align:right;
+}
+/*Festival Bonus Report*/
+.exclude {
+    float:left;
+    margin-top:20px;
+}
+.festival_bonus_box1 {
+    width:400px;
+    margin:0 auto;
+}
+.festival_bonus_box1_table {
+    margin:0 auto;
+}
+.festival_bonus_box1_table tr {
+    height:32px;
+}
+.festival_bonus_box1_table tr td:first-child{
+    width:80px;
+}
+.festival_bonus_box1 fieldset {
+    border:1px solid #cccccc;
+}
+.festival_bonus_box1 legend{
+    font-weight:bold;
+}
+.festival_bonus_box2 {
+    margin: 15px 0;
+}
+/*separation_sheet*/
+.separation_sheet_box1 {
+    margin:10px 0;
+}
+.separation_sheet_box1_table {
+    margin:0 auto;
+}
+.separation_sheet_box1_table tr td {
+    width:150px;
+    text-align:center;
+}
+/*tiffin_bill*/
+
+.tiffin_bill_box1 {
+    margin:15px 0;
+}
+.tiffin_bill_box1 table {
+    margin: 0 auto;
+}
+.tiffin_bill_box1 table tr td{
+    width:100px;
+}
+.tiffin_bill_box2 {
+    margin:20px 0;
+}
+.tiffin_bill_box2 p{
+    text-align:center;
+}
+/*advance_Details*/
+.advance_Details_box1 {
+    margin:15px 0;
+}
+
+.advance_Details_box1_table {
+    margin:0 auto;
+}
+.advance_Details_box1_table tr td{
+    width:120px;
+}
+.advance_Details_box2 {
+    margin:15px 0;
+}
+.advance_Details_box2 fieldset {
+    border:1px solid #cccccc;
+}
+.advance_Details_box2 legend {
+    font-weight:bold;
+}
+.advance_Details_box2_table {
+    margin:0 auto;
+}
+.advance_Details_box2_table tr td{
+    width:120px;
+}
+.advance_Details_box3 {
+    margin:15px 0;
+}
+.advance_Details_box3_table {
+}
+.advance_Details_box3_table tr{
+    height:30px;
+}
+.advance_Details_box3 fieldset {
+    border:1px solid #cccccc;
+}
+.advance_Details_box3 legend {
+    font-weight:bold;
+}
+
+/*Annual Leave Payment*/
+.annual_leave_payment_box1 {
+    margin:15px 0;
+}
+.annual_leave_payment_box1_table {
+  margin:0 auto;
+}
+.annual_leave_payment_box1_table tr{
+  height:40px;
+}
+.annual_leave_payment_box1_table tr td:first-child{
+  text-align:right;
+}
+.annual_leave_payment_box2 {
+  border: 1px solid #CCCCCC;
+  overflow: hidden;
+  padding: 10px 10px 20px;
+  width: 580px;
+}
+.annual_leave_payment_box2_left {
+  float: left;
+  width: 260px;
+}
+.annual_leave_payment_box2_middle {
+  float: left;
+  margin-top: 16px;
+  padding: 5px;
+  text-align: center;
+  width: 50px;
+}
+.annual_leave_payment_box2_right {
+  float: left;
+  width: 260px;
+}
+.annual_leave_payment_box3 {
+  border: 1px solid #CCCCCC;
+  overflow: hidden;
+  padding: 10px 10px 20px;
+  width: 580px;
+}
+.annual_leave_payment_box3_left {
+  float: left;
+  width: 260px;
+}
+.annual_leave_payment_box3_middle {
+  float: left;
+  padding: 5px;
+  text-align: center;
+  width: 50px;
+}
+.annual_leave_payment_box3_right {
+  float: left;
+  width: 260px;
+}
+.exclude_button {
+  background: -moz-linear-gradient(center top , #63B8EE 5%, #468CCF 100%) repeat scroll 0 0 #63B8EE;
+  border: 1px solid #3866A3;
+  border-radius: 3px;
+  box-shadow: 1px 1px 0 0 #BEE2F9 inset;
+  color: #FFFFFF;
+  cursor: pointer;
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: normal;
+  margin-bottom: 3px;
+  padding: 5px 6px;
+  text-decoration: none;
+  text-shadow: 1px 1px 0 #7CACDE;
+  float:left;
+}
+.exclude_button:hover {
+    background: -moz-linear-gradient(center top , #468CCF 5%, #63B8EE 100%) repeat scroll 0 0 #468CCF;
+}
+.exclude_button:active {
+    position: relative;
+    top: 1px;
+}
+/*final_bill_payment_sheet*/
+.final_bill_payment_sheet_box1 {
+    margin:15px 0;
+}
+.final_bill_payment_sheet_box1_table {
+    margin:0 auto;
+}
+.final_bill_payment_sheet_box1_table tr td{
+    width:100px;
+}
+.final_bill_payment_sheet_box2 {
+    margin:15px 0;
+}
+.final_bill_payment_sheet_box2_table {
+    margin:0 auto;
+}
+.final_bill_payment_sheet_box2_table tr td{
+    text-align:right;
+}
+/*pay_base_shift*/
+.pay_base_shift_box1 {
+    margin:10px 0;
+}
+.pay_base_shift_box1_table {
+    margin:0 auto;
+}
+.pay_base_shift_box1_table tr td {
+    width:200px;
+    text-align:center;
+}
+.pay_base_shift_box2 {
+    width:400px;
+    margin:15px auto;
+    border:1px solid #dddddd;
+    padding:10px 0;
+}
+.pay_base_shift_box2 p{
+    text-align:center;
+}
+/*mult_card_salary_sheet*/
+.mult_card_salary_sheet_box1 {
+    margin:15px 0;
+    overflow:hidden;
+}
+.mult_card_salary_sheet_box1_left {
+    float:left;
+    width:400px;
+}
+
+.mult_card_salary_sheet_box1_left_table {
+    float: right;
+    margin-right: 15px;
+}
+.mult_card_salary_sheet_box1_left_table tr td{
+    text-align:right;
+}
+.mult_card_salary_sheet_box1_right {
+    float:left;
+    width:200px;
+}
+.mult_card_salary_sheet_box1_right_table {
+}
+.mult_card_salary_sheet_box1_right_table tr{
+    height:20px;
+}
+.mult_card_salary_sheet_box2_middle {
+  float: left;
+  padding: 5px;
+  text-align: center;
+  width: 50px;
+}
+/*employee_pf*/
+.employee_pf_box1 {
+}
+.employee_pf_box1 p{
+    text-align:center;
+}
+.employee_pf_box1_table {
+    margin:0 auto;
+}
+.employee_pf_box1_table tr td {
+    text-align:right;
+}
+.advance_main_box_content {
+  background: none repeat scroll 0 0 #FFFFFF;
+  border: 1px solid #909090;
+  margin: 0 auto;
+  padding: 10px;
+  overflow: hidden;
+}
+.text_area_advance {
+    margin: 0 auto;
+}
+.text_area_advance tr td {
+    vertical-align:top;
+}
+.loan_table {
+margin:0 auto;
+}
+.advance_2_left_area {
+  border-right: 1px solid #DDDDDD;
+  float: left;
+  margin: -10px;
+  min-height: 580px;
+  overflow: hidden;
+  padding: 10px;
+  width: 485px;
+}
+.advance_2_right_area {
+  float: left;
+  margin-left: 20px;
+  overflow: hidden;
+  width: 525px;
+}
