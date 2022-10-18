@@ -362,3 +362,14 @@ D:\Running projects\cw_jilhrm\HRD.BBL\obj\Debug\HRD.BBL.csproj.CoreCompileInputs
 D:\Running projects\cw_jilhrm\HRD.BBL\obj\Debug\HRD.BBL.csproj.CopyComplete
 D:\Running projects\cw_jilhrm\HRD.BBL\obj\Debug\HRD.BBL.dll
 D:\Running projects\cw_jilhrm\HRD.BBL\obj\Debug\HRD.BBL.pdb
+D:\Running projects git hub\cw_jilhrm\HRD.BBL\bin\Debug\HRD.BBL.dll
+D:\Running projects git hub\cw_jilhrm\HRD.BBL\bin\Debug\HRD.BBL.pdb
+D:\Running projects git hub\cw_jilhrm\HRD.BBL\bin\Debug\HRD.DAL.dll
+D:\Running projects git hub\cw_jilhrm\HRD.BBL\bin\Debug\HRD.ModelEntities.dll
+D:\Running projects git hub\cw_jilhrm\HRD.BBL\bin\Debug\HRD.DAL.pdb
+D:\Running projects git hub\cw_jilhrm\HRD.BBL\bin\Debug\HRD.ModelEntities.pdb
+D:\Running projects git hub\cw_jilhrm\HRD.BBL\obj\Debug\HRD.BBL.csprojResolveAssemblyReference.cache
+D:\Running projects git hub\cw_jilhrm\HRD.BBL\obj\Debug\HRD.BBL.csproj.CoreCompileInputs.cache
+D:\Running projects git hub\cw_jilhrm\HRD.BBL\obj\Debug\HRD.BBL.csproj.CopyComplete
+D:\Running projects git hub\cw_jilhrm\HRD.BBL\obj\Debug\HRD.BBL.dll
+D:\Running projects git hub\cw_jilhrm\HRD.BBL\obj\Debug\HRD.BBL.pdb

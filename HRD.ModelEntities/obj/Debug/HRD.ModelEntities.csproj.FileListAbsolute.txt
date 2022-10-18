@@ -152,3 +152,9 @@ D:\Running projects\cw_jilhrm\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.cspr
 D:\Running projects\cw_jilhrm\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csproj.CoreCompileInputs.cache
 D:\Running projects\cw_jilhrm\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
 D:\Running projects\cw_jilhrm\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb
+D:\Running projects git hub\cw_jilhrm\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.dll
+D:\Running projects git hub\cw_jilhrm\HRD.ModelEntities\bin\Debug\HRD.ModelEntities.pdb
+D:\Running projects git hub\cw_jilhrm\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csprojResolveAssemblyReference.cache
+D:\Running projects git hub\cw_jilhrm\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.csproj.CoreCompileInputs.cache
+D:\Running projects git hub\cw_jilhrm\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.dll
+D:\Running projects git hub\cw_jilhrm\HRD.ModelEntities\obj\Debug\HRD.ModelEntities.pdb

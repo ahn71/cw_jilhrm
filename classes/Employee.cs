@@ -377,13 +377,20 @@ namespace SigmaERP.classes
                 if (EmpId != "")
                     EmpId = " and EmpID='" + EmpId + "'";
                 dt = new DataTable();
-                sqlDB.fillDataTable("select EmpId,convert(varchar(10),EmpJoiningDate,120) as EmpJoiningDate from v_EmployeeDetails where CompanyId='" + CompanyId + "' " + EmpId + " and IsActive=1  and EmpId not in(select EmpId from EarnLeave_Activationlog)", dt);
+                sqlDB.fillDataTable("select EmpId,convert(varchar(10),EmpJoiningDate,120) as EmpJoiningDate from v_EmployeeDetails where CompanyId='" + CompanyId + "' " + EmpId + " and IsActive=1  and EmpId not in(select EmpId from EarnLeave_Activationlog Where IsActive=1)", dt);
 
+                DateTime CurrentDate =DateTime.Parse(ServerTimeZone.GetBangladeshNowDate("yyyy-MM-dd"));
+                //DateTime CurrentDate =DateTime.Parse("2023-01-01");
                 for (int i = 0; i < dt.Rows.Count; i++)
                 {
                     DateTime empJoiningDate = DateTime.Parse(dt.Rows[i]["EmpJoiningDate"].ToString());
+                    DateTime earnLeaveStandardDate = DateTime.Parse(empJoiningDate.Year.ToString() + "-01-01");// 1st January
+                    if (earnLeaveStandardDate < empJoiningDate)
+                    {
+                        empJoiningDate = earnLeaveStandardDate.AddYears(1);
+                    }
                     int count = 0;
-                    for (DateTime Date = empJoiningDate; Date <= DateTime.Now; Date = Date.AddMonths(1))
+                    for (DateTime Date = empJoiningDate; Date <= CurrentDate; Date = Date.AddMonths(1))
                     {
                         if (Date.ToString("MM").Equals("01"))
                             count++;

@@ -135,3 +135,9 @@ D:\Running projects\cw_jilhrm\HRD.DAL\bin\Debug\HRD.DAL.pdb
 D:\Running projects\cw_jilhrm\HRD.DAL\obj\Debug\HRD.DAL.csproj.CoreCompileInputs.cache
 D:\Running projects\cw_jilhrm\HRD.DAL\obj\Debug\HRD.DAL.dll
 D:\Running projects\cw_jilhrm\HRD.DAL\obj\Debug\HRD.DAL.pdb
+D:\Running projects git hub\cw_jilhrm\HRD.DAL\bin\Debug\HRD.DAL.dll
+D:\Running projects git hub\cw_jilhrm\HRD.DAL\bin\Debug\HRD.DAL.pdb
+D:\Running projects git hub\cw_jilhrm\HRD.DAL\obj\Debug\HRD.DAL.csprojResolveAssemblyReference.cache
+D:\Running projects git hub\cw_jilhrm\HRD.DAL\obj\Debug\HRD.DAL.csproj.CoreCompileInputs.cache
+D:\Running projects git hub\cw_jilhrm\HRD.DAL\obj\Debug\HRD.DAL.dll
+D:\Running projects git hub\cw_jilhrm\HRD.DAL\obj\Debug\HRD.DAL.pdb

@@ -607,3 +607,35 @@ D:\Running projects\cw_jilhrm\bin\HRD.BBL.pdb
 D:\Running projects\cw_jilhrm\obj\Debug\GloryERP.csproj.CopyComplete
 D:\Running projects\cw_jilhrm\obj\Debug\SigmaERP.dll
 D:\Running projects\cw_jilhrm\obj\Debug\SigmaERP.pdb
+D:\Running projects git hub\cw_jilhrm\bin\SigmaERP.dll.config
+D:\Running projects git hub\cw_jilhrm\bin\SigmaERP.dll
+D:\Running projects git hub\cw_jilhrm\bin\SigmaERP.pdb
+D:\Running projects git hub\cw_jilhrm\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Running projects git hub\cw_jilhrm\bin\CrystalDecisions.ReportSource.dll
+D:\Running projects git hub\cw_jilhrm\bin\CrystalDecisions.Shared.dll
+D:\Running projects git hub\cw_jilhrm\bin\CrystalDecisions.Web.dll
+D:\Running projects git hub\cw_jilhrm\bin\HRD.BBL.dll
+D:\Running projects git hub\cw_jilhrm\bin\HRD.ModelEntities.dll
+D:\Running projects git hub\cw_jilhrm\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Running projects git hub\cw_jilhrm\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Running projects git hub\cw_jilhrm\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Running projects git hub\cw_jilhrm\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Running projects git hub\cw_jilhrm\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Running projects git hub\cw_jilhrm\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Running projects git hub\cw_jilhrm\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Running projects git hub\cw_jilhrm\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Running projects git hub\cw_jilhrm\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Running projects git hub\cw_jilhrm\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Running projects git hub\cw_jilhrm\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Running projects git hub\cw_jilhrm\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Running projects git hub\cw_jilhrm\bin\stdole.dll
+D:\Running projects git hub\cw_jilhrm\bin\HRD.ModelEntities.pdb
+D:\Running projects git hub\cw_jilhrm\bin\HRD.BBL.pdb
+D:\Running projects git hub\cw_jilhrm\obj\Debug\GloryERP.csprojResolveAssemblyReference.cache
+D:\Running projects git hub\cw_jilhrm\obj\Debug\Interop.CRDESIGNERLib.dll
+D:\Running projects git hub\cw_jilhrm\obj\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+D:\Running projects git hub\cw_jilhrm\obj\Debug\GloryERP.csproj.ResolveComReference.cache
+D:\Running projects git hub\cw_jilhrm\obj\Debug\GloryERP.csproj.CoreCompileInputs.cache
+D:\Running projects git hub\cw_jilhrm\obj\Debug\GloryERP.csproj.CopyComplete
+D:\Running projects git hub\cw_jilhrm\obj\Debug\SigmaERP.dll
+D:\Running projects git hub\cw_jilhrm\obj\Debug\SigmaERP.pdb
