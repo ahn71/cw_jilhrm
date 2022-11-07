@@ -226,7 +226,7 @@ namespace SigmaERP
             {
                 HttpCookie getCookies = Request.Cookies["userInfo"];
                 string CompanyId = getCookies["__CompanyId__"].ToString();
-                SQLOperation.selectBySetCommandInDatatable("select SN,EmpTypeId,EmpId,TypeOfChange from v_EmployeeDetails where ActiveSalary='false' and CompanyId='" + CompanyId + "' AND EffectiveMonth<='" + DateTime.Now.ToString("MM-yyyy") + "'", dt = new DataTable(), sqlDB.connection);
+                SQLOperation.selectBySetCommandInDatatable("select SN,EmpId from Personnel_EmpCurrentStatus  where ActiveSalary='false' AND CompanyId='" + ddlCompany.SelectedValue + "' AND  TypeOfChange='p' and    convert(Date, SUBSTRING(EffectiveMonth,4,4)+'-'+ SUBSTRING(EffectiveMonth,0,3)+'-01' )<='" + DateTime.Now.ToString("yyyy-MM-dd") + "'", dt = new DataTable(), sqlDB.connection);
                 for (int r = 0; r < dt.Rows.Count; r++)
                 {
                     SqlCommand upIsActive = new SqlCommand("Update Personnel_EmpCurrentStatus set IsActive=0 where EmpId='" + dt.Rows[r]["EmpId"].ToString() + "'", sqlDB.connection);
@@ -234,13 +234,7 @@ namespace SigmaERP
 
                     string[] getColumns2 = { "ActiveSalary", "IsActive" };
                     string[] getValues2 = { "1", "1" };
-                    SQLOperation.forUpdateValue("Personnel_EmpCurrentStatus", getColumns2, getValues2, "SN", dt.Rows[r]["SN"].ToString(), sqlDB.connection);
-
-                    if (dt.Rows[r]["TypeOfChange"].ToString() == "p")
-                    {
-                        SqlCommand cmd = new SqlCommand("update Personnel_EmpCurrentStatus set EmpTypeId=" + dt.Rows[r]["EmpTypeId"].ToString() + " where EmpId='" + dt.Rows[r]["EmpId"].ToString() + "'", sqlDB.connection);
-                        cmd.ExecuteNonQuery();
-                    }
+                    SQLOperation.forUpdateValue("Personnel_EmpCurrentStatus", getColumns2, getValues2, "SN", dt.Rows[r]["SN"].ToString(), sqlDB.connection);                    
 
                 }
             }
